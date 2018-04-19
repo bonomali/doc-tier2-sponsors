@@ -1,7 +1,8 @@
-Company name | Type        | Premium
--------------|-------------|-----
-?What If! Ltd | London | Tier 2 (A rating) Tier 2 General| 
-@ Home Accommodation Services Ltd | London | Tier 2 (A rating) Tier 2 General| 
+Company name | City | Type | Premium
+------------ | -----|------|--------
+
+?What If! Ltd | Tier 2 (A rating) Tier 2 General| 
+@ Home Accommodation Services Ltd | Tier 2 (A rating) Tier 2 General| 
 0-two Maintenance | Tier 2 (A rating) Tier 2 General
 1 Tech LTD | Tier 2 (A rating) Tier 2 General
 10 GROUP LTD T/A THE 10 GROUP | Tier 2 (A rating) Tier 2 General
@@ -60,10 +61,10 @@ Company name | Type        | Premium
 6 Bones Limited trading as Dirty Bones | Tier 2 (A rating) Tier 2 General
 64 COMPUTERS LTD London MIDDLESEX | Tier 2 (A rating) Tier 2 General
 67 Pall Mall Limited | Tier 2 (A rating) Tier 2 General
-6a ltd. London Greater | Tier 2 (A rating) Tier 2 General
+6a ltd. | Tier 2 (A rating) Tier 2 General
 7 Connections Ltd | Tier 2 (A rating) Tier 2 General
 76 Harley Street Limited | Tier 2 (A rating) Tier 2 General
-77Agency Ltd London Greater | Tier 2 (A rating) Tier 2 General
+77Agency Ltd | Tier 2 (A rating) Tier 2 General
 7DIGITAL GROUP PLC | Tier 2 (A rating) Tier 2 General
 8 - 10 Dover Street Limited | Tier 2 (A rating) Tier 2 General
 8c Capital LLP | Tier 2 (A rating) Tier 2 General
@@ -99,7 +100,7 @@ ABACUS PARTNERS (LDN) LLP | Tier 2 (A rating) Tier 2 General
 Abacus Software Limited | Tier 2 (A rating) Tier 2 General
 Abans Global Limited | Tier 2 (A rating) Tier 2 General
 Abbas Media Law | Tier 2 (A rating) Tier 2 General
-ABBVL Limited London Greater | Tier 2 (A rating) Tier 2 General
+ABBVL Limited | Tier 2 (A rating) Tier 2 General
 ABC International Bank Plc | Tier 2 (A rating) Tier 2 General
 ABeam Consulting Ltd., UK Branch | Tier 2 (A rating) Tier 2 General
 Abel & Imray | Tier 2 (A rating) Tier 2 General
@@ -240,7 +241,7 @@ Adstream UK Ltd | Tier 2 (A rating) Tier 2 General
 Adthena Ltd | Tier 2 (A rating) Tier 2 General
 ADVANCE GLOBAL CAPITAL LIMITED | Tier 2 (A rating) Tier 2 General
 Advance International Media Ltd | Tier 2 (A rating) Tier 2 General
-Advance Media Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Advance Media Ltd | Tier 2 (A rating) Tier 2 General
 Advance Shipping Ltd | Tier 2 (A rating) Tier 2 General
 Advanced 365 Limited | Tier 2 (A rating) Tier 2 General
 ADVANCED BROADCAST SERVICES LIMITED | Tier 2 (A rating) Tier 2 General
@@ -476,7 +477,7 @@ Alpha Plus Group Ltd | Tier 2 (A rating) Tier 2 General
 Alpha Real Capital LLP | Tier 2 (A rating) Tier 2 General
 Alpha Transfers Limited | Tier 2 (A rating) Tier 2 General
 Alpha Universal Management Plc | Tier 2 (A rating) Tier 2 General
-Alphadyne Asset Management (UK) LLP | London, | Tier 2 (A rating) Tier 2 General
+Alphadyne Asset Management (UK) LLP | Tier 2 (A rating) Tier 2 General
 Alphanumeric Accountants Limited | Tier 2 (A rating) Tier 2 General
 AlphaSights Ltd. | Tier 2 (A rating) Tier 2 General
 ALPINA ROSA LIMITED | Tier 2 (A rating) Tier 2 General
@@ -574,7 +575,7 @@ Anacap Financial Partners LLP | Tier 2 (A rating) Tier 2 General
 AnalogFolk | Tier 2 (A rating) Tier 2 General
 Analysis Group Ltd | Tier 2 (A rating) Tier 2 General
 Analysys Mason Limited | Tier 2 (A rating) Tier 2 General
-Ananas Anam UK Limited London Greater | Tier 2 (A rating) Tier 2 General
+Ananas Anam UK Limited | Tier 2 (A rating) Tier 2 General
 Anatolian Foods Ltd | Tier 2 (A rating) Tier 2 General
 Ancala Partners LLP | Tier 2 (A rating) Tier 2 General
 Ancestry.com UK Limited | Tier 2 (A rating) Tier 2 General
@@ -597,7 +598,7 @@ Angelica Fashion Ltd | Tier 2 (A rating) Tier 2 General
 Angelina Studio Limited | Tier 2 (A rating) Tier 2 General
 Angelo, Gordon Europe LLP | Tier 2 (A rating) Tier 2 General
 Anglican Consultative Council | Tier 2 (A rating) Tier 2 General
-Angliya Limited London Greater | Tier 2 (A rating) Tier 2 General
+Angliya Limited | Tier 2 (A rating) Tier 2 General
 Anglo American Services (UK) Limited | Tier 2 (A rating) Tier 2 General
 Anglo Chinese School of London Limited | Tier 2 (A rating) Tier 2 General
 Anglo Indian Beverage Ltd Docklands | Tier 2 (A rating) Tier 2 General
@@ -767,7 +768,7 @@ ARROW SHIPPING (UK) LTD | Tier 2 (A rating) Tier 2 General
 Arrowgrass Capital Services UK Limited | Tier 2 (A rating) Tier 2 General
 Arrows Group Global Ltd | Tier 2 (A rating) Tier 2 General
 Arrows Group Professional Limited | Tier 2 (A rating) Tier 2 General
-Arsenal Football Club | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+Arsenal Football Club | Tier 2 (A rating) Tier 2 General
 Art Partner Productions Limited | Tier 2 (A rating) Tier 2 General
 ARTEFACT PARTNERS HOLDING LTD T/A ARTEFACT PARTNERS LLP | Tier 2 (A rating) Tier 2 General
 Artelia Projects UK Limited | Tier 2 (A rating) Tier 2 General
@@ -803,7 +804,7 @@ Ashcombe Advisers LLP | Tier 2 (A rating) Tier 2 General
 Ashford Associates (UK) Ltd. Wanstead | Tier 2 (A rating) Tier 2 General
 Ashley Gregory | Tier 2 (A rating) Tier 2 General
 Ashmore Group Plc | Tier 2 (A rating) Tier 2 General
-Ashoka UK London Greater | Tier 2 (A rating) Tier 2 General
+Ashoka UK | Tier 2 (A rating) Tier 2 General
 ASHS Ltd trading as Anya Hindmarch | Tier 2 (A rating) Tier 2 General
 Ashtead Group plc | Tier 2 (A rating) Tier 2 General
 Ashton Rose Ltd | Tier 2 (A rating) Tier 2 General
@@ -837,7 +838,7 @@ ASPone Ltd | Tier 2 (A rating) Tier 2 General
 Asprey Holdings Limited | Tier 2 (A rating) Tier 2 General
 A-squared Studio Engineers Ltd | Tier 2 (A rating) Tier 2 General
 Assay Corporate Finance Limited | Tier 2 (A rating) Tier 2 General
-Asselle Products Limited London Greater | Tier 2 (A rating) Tier 2 General
+Asselle Products Limited | Tier 2 (A rating) Tier 2 General
 ASSEMBLY MEDIA LIMITED | Tier 2 (A rating) Tier 2 General
 ASSET CONTROL TECHNOLOGY LIMITED | Tier 2 (A rating) Tier 2 General
 Asset Management One International Ltd | Tier 2 (A rating) Tier 2 General
@@ -859,7 +860,7 @@ Assured Guaranty (UK) Services Limited | Tier 2 (A rating) Tier 2 General
 Astadia Consulting UK Limited | Tier 2 (A rating) Tier 2 General
 Astbury Marsden and Partners Limited | Tier 2 (A rating) Tier 2 General
 Astellon Investment Services Limited | Tier 2 (A rating) Tier 2 General
-Astley Clarke Limited London Greater | Tier 2 (A rating) Tier 2 General
+Astley Clarke Limited | Tier 2 (A rating) Tier 2 General
 ASTOMOS ENERGY CORPORATION | Tier 2 (A rating) Tier 2 General
 Astons Reed Ltd | Tier 2 (A rating) Tier 2 General
 Astound Commerce Limited (UK) | Tier 2 (A rating) Tier 2 General
@@ -918,7 +919,7 @@ Aurelius Capital Management (UK) LLP | Tier 2 (A rating) Tier 2 General
 Aurelius Investments Limited | Tier 2 (A rating) Tier 2 General
 Auria Management (six) London Outside US | Tier 2 (A rating) Tier 2 General
 Auriemma Consulting UK Ltd | Tier 2 (A rating) Tier 2 General
-Auriga Consulting Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Auriga Consulting Ltd | Tier 2 (A rating) Tier 2 General
 Auris Tech Limited | Tier 2 (A rating) Tier 2 General
 Aurora Healthcare Communications Ltd | Tier 2 (A rating) Tier 2 General
 Aurora Orchestra | Tier 2 (A rating) Tier 2 General
@@ -944,11 +945,11 @@ Autumnpaper Limited | Tier 2 (A rating) Tier 2 General
 Auxbridge Consulting Limited | Tier 2 (A rating) Tier 2 General
 AVA ENERGY LIMITED | Tier 2 (A rating) Tier 2 General
 Ava Farmacy Limited | Tier 2 (A rating) Tier 2 General
-AVADO Learning Limited London Greater | Tier 2 (A rating) Tier 2 General
+AVADO Learning Limited | Tier 2 (A rating) Tier 2 General
 Avalara Europe Limited | Tier 2 (A rating) Tier 2 General
 Avalon Capital Markets Limited | Tier 2 (A rating) Tier 2 General
 Avalon Entertainment Limited | Tier 2 (A rating) Tier 2 General
-Avaloq UK Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Avaloq UK Ltd | Tier 2 (A rating) Tier 2 General
 Avanade UK Limited | Tier 2 (A rating) Tier 2 General
 Avance Consulting (Europe) Limited | Tier 2 (A rating) Tier 2 General
 AvantCredit of UK LLC | Tier 2 (A rating) Tier 2 General
@@ -986,7 +987,7 @@ Axiom Software Solutions Limited London Stanmore | Tier 2 (A rating) Tier 2 Gene
 Axioma (UK) Limited | Tier 2 (A rating) Tier 2 General
 Axiomsl Limited | Tier 2 (A rating) Tier 2 General
 Axis Bank UK Ltd | Tier 2 (A rating) Tier 2 General
-AXIS BIOSERVICES LIMITED COLERAINE | LondonDERRY | Tier 2 (A rating) Tier 2 General
+AXIS BIOSERVICES LIMITED COLERAINE | Tier 2 (A rating) Tier 2 General
 AXIS PLUMBING UK LTD | Tier 2 (A rating) Tier 2 General
 AXIS Specialty Europe SE | Tier 2 (A rating) Tier 2 General
 Axis12 Ltd | Tier 2 (A rating) Tier 2 General
@@ -1057,7 +1058,7 @@ Ballet Black | Tier 2 (A rating) Tier 2 General
 Balli Holdings Limited | Tier 2 (A rating) Tier 2 General
 Bally Sunglass & optical Co. Ltd | Tier 2 (A rating) Tier 2 General
 Bally UK Sales Ltd | Tier 2 (A rating) Tier 2 General
-Balmond Studio | London, City Of | Tier 2 (A rating) Tier 2 General
+Balmond Studio | Tier 2 (A rating) Tier 2 General
 Balyasny Europe Asset Management LLP | Tier 2 (A rating) Tier 2 General
 Bamboo Limited | Tier 2 (A rating) Tier 2 General
 Bamfords Trust Plc | Tier 2 (A rating) Tier 2 General
@@ -1139,7 +1140,7 @@ BDO LLP | Tier 2 (A rating) Tier 2 General
 BDO Remit (UK) Ltd | Tier 2 (A rating) Tier 2 General
 BDP Management Services Ltd | Tier 2 (A rating) Tier 2 General
 BDT & Company International, LLP | Tier 2 (A rating) Tier 2 General
-BDW Trading Limited (trading as Barratt | London) | Tier 2 (A rating) Tier 2 General
+BDW Trading Limited | Tier 2 (A rating) Tier 2 General
 Be Applied Ltd | Tier 2 (A rating) Tier 2 General
 BE Education Limited | Tier 2 (A rating) Tier 2 General
 Beach & Associates LTD | Tier 2 (A rating) Tier 2 General
@@ -1193,7 +1194,7 @@ Berg Kaprow Lewis LLP Finchley | Tier 2 (A rating) Tier 2 General
 Beringea LLP | Tier 2 (A rating) Tier 2 General
 Berjaya Vacation Club (UK) Limited | Tier 2 (A rating) Tier 2 General
 BERKELEY ENERGY SERVICES LIMITED | Tier 2 (A rating) Tier 2 General
-Berkeley Homes (Central | London) Ltd | Tier 2 (A rating) Tier 2 General
+Berkeley Homes Ltd | Tier 2 (A rating) Tier 2 General
 Berkeley Management Consultants | Tier 2 (A rating) Tier 2 General
 Berkeley Research Group (UK) Limited | Tier 2 (A rating) Tier 2 General
 Bernard Quaritch Ltd | Tier 2 (A rating) Tier 2 General
@@ -1277,7 +1278,7 @@ Black Mountain Systems Limited | Tier 2 (A rating) Tier 2 General
 Black Rock Programme Management Ltd | Tier 2 (A rating) Tier 2 General
 Black Sun Plc | Tier 2 (A rating) Tier 2 General
 Black Swan Data Limited | Tier 2 (A rating) Tier 2 General
-Black Tomato Ltd | London,City of | Tier 2 (A rating) Tier 2 General
+Black Tomato Ltd | Tier 2 (A rating) Tier 2 General
 Blackbaud Europe Ltd | Tier 2 (A rating) Tier 2 General
 BLACKBOARD (UK) LIMITED | Tier 2 (A rating) Tier 2 General
 Blackbridge Communications LTD | Tier 2 (A rating) Tier 2 General
@@ -1315,13 +1316,13 @@ Blockchain (GB) Limited | Tier 2 (A rating) Tier 2 General
 BlockEx Limited | Tier 2 (A rating) Tier 2 General
 BLOM BANK FRANCE | Tier 2 (A rating) Tier 2 General
 Blondie Fashion Limited | Tier 2 (A rating) Tier 2 General
-Bloomberg LP | London, | Tier 2 (A rating) Tier 2 General
+Bloomberg LP | Tier 2 (A rating) Tier 2 General
 Bloomon UK Ltd. | Tier 2 (A rating) Tier 2 General
 BloomReach UK Ltd | Tier 2 (A rating) Tier 2 General
 Bloomsbury Publishing Plc | Tier 2 (A rating) Tier 2 General
 blowUP media UK LTD | Tier 2 (A rating) Tier 2 General
 BLUE CARNATION UK LIMITED | Tier 2 (A rating) Tier 2 General
-Blue Clothing Co Ltd | London, | Tier 2 (A rating) Tier 2 General
+Blue Clothing Co Ltd | Tier 2 (A rating) Tier 2 General
 Blue Cube (GB) Ltd | Tier 2 (A rating) Tier 2 General
 Blue Duck Education Ltd | Tier 2 (A rating) Tier 2 General
 BLUE HERON CATERING LIMITED T/A BANGALORE EXPRESS | Tier 2 (A rating) Tier 2 General
@@ -1471,7 +1472,7 @@ Brewin Dolphin Limited | Tier 2 (A rating) Tier 2 General
 BRG Appliances Limited | Tier 2 (A rating) Tier 2 General
 BriceAmery Capital Ltd | Tier 2 (A rating) Tier 2 General
 Brickendon Consulting Limited | Tier 2 (A rating) Tier 2 General
-Brickwall Films Limited London Greater | Tier 2 (A rating) Tier 2 General
+Brickwall Films Limited | Tier 2 (A rating) Tier 2 General
 Bridge Academy | Tier 2 (A rating) Tier 2 General
 Bridge Capital Ltd | Tier 2 (A rating) Tier 2 General
 BRIDGE INT.LIMITED WANDSWORTH | Tier 2 (A rating) Tier 2 General
@@ -1484,7 +1485,7 @@ Bridgewater Entertainments Ltd t/aThe Ledbury Restaurant | Tier 2 (A rating) Tie
 Brigade Capital UK LLP | Tier 2 (A rating) Tier 2 General
 Bright Partnerships Worldwide Limited | Tier 2 (A rating) Tier 2 General
 Bright Red Dot Foundation T/A CAN | Tier 2 (A rating) Tier 2 General
-Bright Six Limited London Greater | Tier 2 (A rating) Tier 2 General
+Bright Six Limited | Tier 2 (A rating) Tier 2 General
 BRIGHTCOVE UK LIMITED | Tier 2 (A rating) Tier 2 General
 Brightside Technology Ltd | Tier 2 (A rating) Tier 2 General
 BrightTALK Ltd | Tier 2 (A rating) Tier 2 General
@@ -1579,7 +1580,7 @@ Buckthorn Corporate Limited | Tier 2 (A rating) Tier 2 General
 Budding Learners Ltd | Tier 2 (A rating) Tier 2 General
 BUGS Bioscience Ltd | Tier 2 (A rating) Tier 2 General
 Buhler UK Limited | Tier 2 (A rating) Tier 2 General
-Buildburo Limited London Greater | Tier 2 (A rating) Tier 2 General
+Buildburo Limited | Tier 2 (A rating) Tier 2 General
 BUILDING DESIGN PARTNERSHIP LIMITED t/a BDP Ltd | Tier 2 (A rating) Tier 2 General
 Building Lives Training Academy CIC | Tier 2 (A rating) Tier 2 General
 BUILTAIN LIMITED | Tier 2 (A rating) Tier 2 General
@@ -1648,7 +1649,7 @@ CAC EUROPE Limited | Tier 2 (A rating) Tier 2 General
 Cachematrix UK Limited | Tier 2 (A rating) Tier 2 General
 CACI Limited | Tier 2 (A rating) Tier 2 General
 CADA Design Group Ltd | Tier 2 (A rating) Tier 2 General
-Cadence Innova London Greater | Tier 2 (A rating) Tier 2 General
+Cadence Innova | Tier 2 (A rating) Tier 2 General
 Cadran Services Limited | Tier 2 (A rating) Tier 2 General
 Cadwalader, Wickersham & Taft LLP | Tier 2 (A rating) Tier 2 General
 Cafe OTO Limited | Tier 2 (A rating) Tier 2 General
@@ -1687,7 +1688,7 @@ Camden and Islington NHS Foundation Trust | Tier 2 (A rating) Tier 2 General
 Camden Arts Centre | Tier 2 (A rating) Tier 2 General
 Camden Eye Clinic | Tier 2 (A rating) Tier 2 General
 Camden Town Brewery Ltd | Tier 2 (A rating) Tier 2 General
-Cameron and Wilding Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Cameron and Wilding Ltd | Tier 2 (A rating) Tier 2 General
 Cameron Mackintosh Ltd | Tier 2 (A rating) Tier 2 General
 Camilla Baldwin | Tier 2 (A rating) Tier 2 General
 Campaign Monitor Eurrope UK Ltd | Tier 2 (A rating) Tier 2 General
@@ -1724,7 +1725,7 @@ Cape Ann Asset Management Ltd | Tier 2 (A rating) Tier 2 General
 Cape Design and Build Ltd | Tier 2 (A rating) Tier 2 General
 Capita Business Services Limited T/A Orange Bus | Tier 2 (A rating) Tier 2 General
 Capita Customer Management Limited | Tier 2 (A rating) Tier 2 General
-Capita Digital & Software Solutions a division of Capita Business Services Ltd.London | Tier 2 (A rating) Tier 2 General
+Capita Digital & Software Solutions a division of Capita Business Services Ltd. | Tier 2 (A rating) Tier 2 General
 Capita IT Services | Tier 2 (A rating) Tier 2 General
 Capita Property and Infrastructure Ltd | Tier 2 (A rating) Tier 2 General
 Capital Accountants Ltd | Tier 2 (A rating) Tier 2 General
@@ -1763,7 +1764,7 @@ Cardiff LNG (UK) Ltd | Tier 2 (A rating) Tier 2 General
 Cardlytics UK Limited | Tier 2 (A rating) Tier 2 General
 Cardonet Consultancy Ltd | Tier 2 (A rating) Tier 2 General
 Cards Prepaid Limited trading as Bankable | Tier 2 (A rating) Tier 2 General
-Cardwell Investment Technologies UK Limited London Greater | Tier 2 (A rating) Tier 2 General
+Cardwell Investment Technologies UK Limited | Tier 2 (A rating) Tier 2 General
 CARE International UK | Tier 2 (A rating) Tier 2 General
 Care Outlook Ltd | Tier 2 (A rating) Tier 2 General
 Career Moves | Tier 2 (A rating) Tier 2 General
@@ -1796,7 +1797,7 @@ Cartesian Limited | Tier 2 (A rating) Tier 2 General
 Cartesius Advisory Network Limited | Tier 2 (A rating) Tier 2 General
 Cartwright Pickard Architects | Tier 2 (A rating) Tier 2 General
 Carve Consulting LLP | Tier 2 (A rating) Tier 2 General
-carwow Ltd. London Greater | Tier 2 (A rating) Tier 2 General
+carwow Ltd. | Tier 2 (A rating) Tier 2 General
 Casco Financial Services Limited | Tier 2 (A rating) Tier 2 General
 Casewise Systems Limited | Tier 2 (A rating) Tier 2 General
 Casewise Systems Limited | Tier 2 (A rating) Tier 2 General
@@ -1930,7 +1931,7 @@ Channing Lucas & Partners Limited | Tier 2 (A rating) Tier 2 General
 Channing School | Tier 2 (A rating) Tier 2 General
 ChapmanBDSP | Tier 2 (A rating) Tier 2 General
 ChapmanBlack Ltd | Tier 2 (A rating) Tier 2 General
-Charis Industrial Services Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Charis Industrial Services Ltd | Tier 2 (A rating) Tier 2 General
 Charity Finance Group | Tier 2 (A rating) Tier 2 General
 Charity Projects (Comic Relief) | Tier 2 (A rating) Tier 2 General
 Charlemagne Capital (UK) Limited | Tier 2 (A rating) Tier 2 General
@@ -2072,13 +2073,13 @@ Cinesite VFX Ltd | Tier 2 (A rating) Tier 2 General
 Cinimod Studio Ltd | Tier 2 (A rating) Tier 2 General
 Cinven Partners LLP | Tier 2 (A rating) Tier 2 General
 Cipla (UK) Ltd | Tier 2 (A rating) Tier 2 General
-Circle Community Limited London Greater | Tier 2 (A rating) Tier 2 General
+Circle Community Limited | Tier 2 (A rating) Tier 2 General
 Circle | Tier 2 (A rating) Tier 2 General
 Circolombia Ltd | Tier 2 (A rating) Tier 2 General
 Circus of Horrors ltd | Tier 2 (A rating) Tier 2 General
 Cirdan Capital Management Limited | Tier 2 (A rating) Tier 2 General
 Cireson Software UK Ltd | Tier 2 (A rating) Tier 2 General
-CIS London & Partners LLP London Greater | Tier 2 (A rating) Tier 2 General
+CIS London & Partners LLP | Tier 2 (A rating) Tier 2 General
 CIT GROUP PARTNERS LLP | Tier 2 (A rating) Tier 2 General
 Citadel Enterprise Europe Limited | Tier 2 (A rating) Tier 2 General
 Citco London Ltd | Tier 2 (A rating) Tier 2 General
@@ -2110,7 +2111,7 @@ City, University of | Tier 2 (A rating) Tier 2 General
 Citygrove Professional Services Limited | Tier 2 (A rating) Tier 2 General
 Citymapper Limited | Tier 2 (A rating) Tier 2 General
 Citypoint Trading Limited | Tier 2 (A rating) Tier 2 General
-CITYSCAPE DIGITAL LIMITED London GREATER | Tier 2 (A rating) Tier 2 General
+CITYSCAPE DIGITAL LIMITED | Tier 2 (A rating) Tier 2 General
 CITYWHARF PROPERTY INVESTMENT CONSULTANCY | Tier 2 (A rating) Tier 2 General
 Citywire Financial Publishers Ltd | Tier 2 (A rating) Tier 2 General
 Civic Conferences Ltd | Tier 2 (A rating) Tier 2 General
@@ -2288,7 +2289,7 @@ Competere Ltd | Tier 2 (A rating) Tier 2 General
 Compliance Online Limited | Tier 2 (A rating) Tier 2 General
 Complyport Limited | Tier 2 (A rating) Tier 2 General
 Compurants Limited (t/a inamo restaurants & bars) | Tier 2 (A rating) Tier 2 General
-Computamatrix Limited Trading As Matrica London Greater | Tier 2 (A rating) Tier 2 General
+Computamatrix Limited Trading As Matrica | Tier 2 (A rating) Tier 2 General
 Computer Aid International | Tier 2 (A rating) Tier 2 General
 COMPUTER ALLIANCE LTD | Tier 2 (A rating) Tier 2 General
 ComRes | Tier 2 (A rating) Tier 2 General
@@ -2351,7 +2352,7 @@ Converse Commodities Ltd | Tier 2 (A rating) Tier 2 General
 Conversion Factory Limited | Tier 2 (A rating) Tier 2 General
 Conversocial UK Ltd | Tier 2 (A rating) Tier 2 General
 Conville & Walsh Ltd | Tier 2 (A rating) Tier 2 General
-Conway Group Healthcare Magherafelt Co | Londonderry | Tier 2 (A rating) Tier 2 General
+Conway Group Healthcare Magherafelt Co | Tier 2 (A rating) Tier 2 General
 Cooke, Young & Keidan LLP | Tier 2 (A rating) Tier 2 General
 Cookery School Ltd | Tier 2 (A rating) Tier 2 General
 Cook's Delights Limited | Tier 2 (A rating) Tier 2 General
@@ -2364,7 +2365,7 @@ Coram Children's Legal Centre | Tier 2 (A rating) Tier 2 General
 Corbett & Tasker Ltd. | Tier 2 (A rating) Tier 2 General
 Corbin & King Restaurant Group Limited | Tier 2 (A rating) Tier 2 General
 Cordis Solutions Ltd | Tier 2 (A rating) Tier 2 General
-Cordium Consulting Limited London Greater | Tier 2 (A rating) Tier 2 General
+Cordium Consulting Limited | Tier 2 (A rating) Tier 2 General
 Core Capital Partners LLP | Tier 2 (A rating) Tier 2 General
 Core Communication Services Limited | Tier 2 (A rating) Tier 2 General
 Core Laboratories (U.K.) Limited | Tier 2 (A rating) Tier 2 General
@@ -2453,7 +2454,7 @@ Crescent Credit Europe LLP | Tier 2 (A rating) Tier 2 General
 Cresco Asset Management Ltd | Tier 2 (A rating) Tier 2 General
 Crest Leathers Ltd | Tier 2 (A rating) Tier 2 General
 Crestline Europe, LLP | Tier 2 (A rating) Tier 2 General
-Crew Clothing Company London Greater | Tier 2 (A rating) Tier 2 General
+Crew Clothing Company | Tier 2 (A rating) Tier 2 General
 CRF Inc Limited | Tier 2 (A rating) Tier 2 General
 Crimson Consulting (UK) Ltd | Tier 2 (A rating) Tier 2 General
 Crimson Education (Europe) Limited | Tier 2 (A rating) Tier 2 General
@@ -2490,12 +2491,12 @@ Cru London Ltd | Tier 2 (A rating) Tier 2 General
 Cruickshank Ltd T/A Cruickshanks Solicitors | Tier 2 (A rating) Tier 2 General
 Crupe Framing (UK) Limited | Tier 2 (A rating) Tier 2 General
 Cryogenic Ltd | Tier 2 (A rating) Tier 2 General
-Crystal Palace Football Club Limited | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+Crystal Palace Football Club Limited | Tier 2 (A rating) Tier 2 General
 CS Technology (UK) Ltd | Tier 2 (A rating) Tier 2 General
 CSC Administrative Services Limited | Tier 2 (A rating) Tier 2 General
 CSCOUT LTD | Tier 2 (A rating) Tier 2 General
 CSK Projects Limited | Tier 2 (A rating) Tier 2 General
-CSL Europe Limited London Greater | Tier 2 (A rating) Tier 2 General
+CSL Europe Limited | Tier 2 (A rating) Tier 2 General
 CSM Sport & Entertainment LLP | Tier 2 (A rating) Tier 2 General
 CTC London LIMITED | Tier 2 (A rating) Tier 2 General
 CTF Partners Limited | Tier 2 (A rating) Tier 2 General
@@ -2623,7 +2624,7 @@ David Tang & Co Solicitors | Tier 2 (A rating) Tier 2 General
 David Wood & Associates Limited | Tier 2 (A rating) Tier 2 General
 David's Bridal UK Limited | Tier 2 (A rating) Tier 2 General
 Davidson Kempner European Partners, LLP | Tier 2 (A rating) Tier 2 General
-Davidson Ryan Dore London Greater | Tier 2 (A rating) Tier 2 General
+Davidson Ryan Dore | Tier 2 (A rating) Tier 2 General
 Davies Maguire Limited | Tier 2 (A rating) Tier 2 General
 Davina Fashions Ltd | Tier 2 (A rating) Tier 2 General
 Davines (UK) Limited | Tier 2 (A rating) Tier 2 General
@@ -2697,12 +2698,12 @@ Dentex Healthcare Group Limited | Tier 2 (A rating) Tier 2 General
 Denton Corker Marshall llp | Tier 2 (A rating) Tier 2 General
 Dentons Europe LLP | Tier 2 (A rating) Tier 2 General
 Dentons UKMEA Legal Services | Tier 2 (A rating) Tier 2 General
-Dentsu Aegis Network 2| Media | Tier 2 (A rating) Tier 2 General
-Dentsu Aegis Network 3| Outdoor | Tier 2 (A rating) Tier 2 General
-Dentsu Aegis Network 4| Isobar | Tier 2 (A rating) Tier 2 General
-Dentsu Aegis Network 5| CGM | Tier 2 (A rating) Tier 2 General
+Dentsu Aegis Network 2 | Tier 2 (A rating) Tier 2 General
+Dentsu Aegis Network 3 | Tier 2 (A rating) Tier 2 General
+Dentsu Aegis Network 4 | Tier 2 (A rating) Tier 2 General
+Dentsu Aegis Network 5 | Tier 2 (A rating) Tier 2 General
 Dentsu Sports Europe Limited | Tier 2 (A rating) Tier 2 General
-Department for Culture Media and Sport London Greater | Tier 2 (A rating) Tier 2 General
+Department for Culture Media and Sport | Tier 2 (A rating) Tier 2 General
 Department for Education | Tier 2 (A rating) Tier 2 General
 Department for International Trade | Tier 2 (A rating) Tier 2 General
 Department for Transport | Tier 2 (A rating) Tier 2 General
@@ -2794,7 +2795,7 @@ District Surveyors Limited | Tier 2 (A rating) Tier 2 General
 Divisa UK Limited | Tier 2 (A rating) Tier 2 General
 DIVYANGA LTD | Tier 2 (A rating) Tier 2 General
 DJA.DJ Ltd | Tier 2 (A rating) Tier 2 General
-DKLM LLP London Greater | Tier 2 (A rating) Tier 2 General
+DKLM LLP | Tier 2 (A rating) Tier 2 General
 DKUK Services Ltd | Tier 2 (A rating) Tier 2 General
 DLNR LIMITED T/A MOUBON | Tier 2 (A rating) Tier 2 General
 DMA Media Limited | Tier 2 (A rating) Tier 2 General
@@ -2914,7 +2915,7 @@ Duff Miller & Co (London Tutors) Ltd t/a Kensington Park School | Tier 2 (A rati
 Duggan Morris Architects Limited | Tier 2 (A rating) Tier 2 General
 Duke Corporate Education Limited | Tier 2 (A rating) Tier 2 General
 Duke Street Management Services Limited | Tier 2 (A rating) Tier 2 General
-Dulwich College | Tier 2 (A rating) Tier 2 General | Tier 2 (A rating) Sport
+Dulwich College | Tier 2 (A rating) Tier 2 General
 Dulwich Picture Gallery Dulwich | Tier 2 (A rating) Tier 2 General
 Dulwich Prep | Tier 2 (A rating) Tier 2 General
 DUNEDENE LIMITED T/A BECKTON PHARMACY | Tier 2 (A rating) Tier 2 General
@@ -3065,7 +3066,7 @@ EGERTON CAPITAL LIMITED | Tier 2 (A rating) Tier 2 General
 Egon Zehnder Limited | Tier 2 (A rating) Tier 2 General
 Egret Media Ltd | Tier 2 (A rating) Tier 2 General
 eHarmony UK Limited | Tier 2 (A rating) Tier 2 General
-Eico Limited (T/A| Eico Pharmacy) | Tier 2 (A rating) Tier 2 General
+Eico Limited (T/A Eico Pharmacy) | Tier 2 (A rating) Tier 2 General
 EIG Global Energy (Europe) Limited | Tier 2 (A rating) Tier 2 General
 Eigen Technologies Ltd | Tier 2 (A rating) Tier 2 General
 Eight Advisory UK Limited | Tier 2 (A rating) Tier 2 General
@@ -3105,7 +3106,7 @@ ELEMENTAL DESIGN LIMITED | Tier 2 (A rating) Tier 2 General
 Eletec Ltd | Tier 2 (A rating) Tier 2 General
 Elevate 2 Limited | Tier 2 (A rating) Tier 2 General
 Elevate Credit International Limited | Tier 2 (A rating) Tier 2 General
-Elevate Legal Services UK Ltd. London Greater | Tier 2 (A rating) Tier 2 General
+Elevate Legal Services UK Ltd. | Tier 2 (A rating) Tier 2 General
 Elexon Limited | Tier 2 (A rating) Tier 2 General
 Eligo Recruitment Ltd. Wimbledon | Tier 2 (A rating) Tier 2 General
 ELITE ACCOUNTANCY (UK) LTD | Tier 2 (A rating) Tier 2 General
@@ -3133,7 +3134,7 @@ Emailage Limited | Tier 2 (A rating) Tier 2 General
 EMAMI DESIGN LTD ISLWORTH | Tier 2 (A rating) Tier 2 General
 Emanuel School | Tier 2 (A rating) Tier 2 General
 eMarketer Europe Ltd | Tier 2 (A rating) Tier 2 General
-Emarsys UK Limited London Greater | Tier 2 (A rating) Tier 2 General
+Emarsys UK Limited | Tier 2 (A rating) Tier 2 General
 Embankment Capital Management Limited | Tier 2 (A rating) Tier 2 General
 embassy of lebanon | Tier 2 (A rating) Tier 2 General
 EMBASSY OF MEXICO | Tier 2 (A rating) Tier 2 General
@@ -3143,7 +3144,7 @@ Embassy of the State of Qatar | Tier 2 (A rating) Tier 2 General
 Embassy of the United Arab Emirates | Tier 2 (A rating) Tier 2 General
 Ember Group Ltd | Tier 2 (A rating) Tier 2 General
 EmBonds Limited | Tier 2 (A rating) Tier 2 General
-EMC-Energy Market Consultants (UK) Ltd London Greater | Tier 2 (A rating) Tier 2 General
+EMC-Energy Market Consultants (UK) Ltd | Tier 2 (A rating) Tier 2 General
 Emerging Communications Ltd | Tier 2 (A rating) Tier 2 General
 Emergn Ltd | Tier 2 (A rating) Tier 2 General
 EMF Capital (UK) Limited | Tier 2 (A rating) Tier 2 General
@@ -3167,14 +3168,14 @@ Empowered Systems Limited | Tier 2 (A rating) Tier 2 General
 EMpower | Tier 2 (A rating) Tier 2 General
 EMR DIGITAL LTD | Tier 2 (A rating) Tier 2 General
 EMSO Asset Management | Tier 2 (A rating) Tier 2 General
-E-MUG ENGINEERING SERVICES LTD | London, | Tier 2 (A rating) Tier 2 General
+E-MUG ENGINEERING SERVICES LTD | Tier 2 (A rating) Tier 2 General
 En Route Solutions Ltd London Select One | Tier 2 (A rating) Tier 2 General
 EN+ Consult Limited | Tier 2 (A rating) Tier 2 General
 ENA Investment Capital LLP | Tier 2 (A rating) Tier 2 General
 ENA London UK Limited | Tier 2 (A rating) Tier 2 General
 Enbridge UK Holdings Ltd | Tier 2 (A rating) Tier 2 General
 Encompass Digital Media Ltd | Tier 2 (A rating) Tier 2 General
-ENCORE TICKETS LTD London Greater | Tier 2 (A rating) Tier 2 General
+ENCORE TICKETS LTD | Tier 2 (A rating) Tier 2 General
 EncycloKidia Ltd. | Tier 2 (A rating) Tier 2 General
 Endava UK Ltd | Tier 2 (A rating) Tier 2 General
 Endeavour Financial Ltd | Tier 2 (A rating) Tier 2 General
@@ -3204,7 +3205,7 @@ Engine Creative Consultants Ltd | Tier 2 (A rating) Tier 2 General
 ENGINE PEOPLE UK LIMITED | Tier 2 (A rating) Tier 2 General
 Engineers Haskins Robinson Waters Ltd | Tier 2 (A rating) Tier 2 General
 ENGINEF OPERATING LIMITED | Tier 2 (A rating) Tier 2 General
-England and Wales Cricket Board Limited | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+England and Wales Cricket Board Limited | Tier 2 (A rating) Tier 2 General
 English National Ballet School | Tier 2 (A rating) Tier 2 General
 English National Ballet | Tier 2 (A rating) Tier 2 General
 English National Opera | Tier 2 (A rating) Tier 2 General
@@ -3217,7 +3218,7 @@ Enish Restaurant and Bar LTD | Tier 2 (A rating) Tier 2 General
 ENKI LABS LIMITED | Tier 2 (A rating) Tier 2 General
 Enko Capital Management LLP | Tier 2 (A rating) Tier 2 General
 ENLIGHTEN THE CHILDREN | Tier 2 (A rating) Tier 2 General
-ENNISMORE INTERNATIONAL MANAGEMENT LIMITED London Greater | Tier 2 (A rating) Tier 2 General
+ENNISMORE INTERNATIONAL MANAGEMENT LIMITED | Tier 2 (A rating) Tier 2 General
 Enodo Economics Limited | Tier 2 (A rating) Tier 2 General
 Enotria Wine Group Limited | Tier 2 (A rating) Tier 2 General
 E-NOVATIONS (LONDON) LTD DOCKLANDS | Tier 2 (A rating) Tier 2 General
@@ -3274,7 +3275,7 @@ eRevalue Ltd London Click to Select (if applicable) | Tier 2 (A rating) Tier 2 G
 Erevena Limited | Tier 2 (A rating) Tier 2 General
 Ergon Associates Ltd | Tier 2 (A rating) Tier 2 General
 Erlang Solutions Ltd | Tier 2 (A rating) Tier 2 General
-Ermanno Scervino London LND - | London, City of | Tier 2 (A rating) Tier 2 General
+Ermanno Scervino London LND - City of | Tier 2 (A rating) Tier 2 General
 Ermenegildo Zegna Limited | Tier 2 (A rating) Tier 2 General
 ERNEST & ERNEST LIMITED | Tier 2 (A rating) Tier 2 General
 Ernst & Young | Tier 2 (A rating) Tier 2 General
@@ -3309,7 +3310,7 @@ ESTOVER ENERGY LIMITED | Tier 2 (A rating) Tier 2 General
 Esubstance T/A Ink West Hampstead | Tier 2 (A rating) Tier 2 General
 E-Tabs Ltd | Tier 2 (A rating) Tier 2 General
 etc net Limited | Tier 2 (A rating) Tier 2 General
-ETC UK Ltd London Greater | Tier 2 (A rating) Tier 2 General
+ETC UK Ltd | Tier 2 (A rating) Tier 2 General
 ETCO International Commodities Ltd | Tier 2 (A rating) Tier 2 General
 Eternal Best (UK) Ltd | Tier 2 (A rating) Tier 2 General
 Eternity Capital Limited | Tier 2 (A rating) Tier 2 General
@@ -3419,7 +3420,7 @@ Exposure Holdings Limited | Tier 2 (A rating) Tier 2 General
 Express Medical Personnel Ltd | Tier 2 (A rating) Tier 2 General
 Expressworks International UK Ltd | Tier 2 (A rating) Tier 2 General
 Exterior Architecture Ltd | Tier 2 (A rating) Tier 2 General
-External Concepts Limited London Greater | Tier 2 (A rating) Tier 2 General
+External Concepts Limited | Tier 2 (A rating) Tier 2 General
 Extreme Reach UK Limited | Tier 2 (A rating) Tier 2 General
 EXUS SOFTWARE LIMITED | Tier 2 (A rating) Tier 2 General
 Eyck Capital Management LLP | Tier 2 (A rating) Tier 2 General
@@ -3451,7 +3452,7 @@ Facing History and Ourselves Ltd | Tier 2 (A rating) Tier 2 General
 Factory Fifteen Limited | Tier 2 (A rating) Tier 2 General
 Factory Media Ltd | Tier 2 (A rating) Tier 2 General
 FactSet Europe Limited | Tier 2 (A rating) Tier 2 General
-Fadaat Media London Greater | Tier 2 (A rating) Tier 2 General
+Fadaat Media | Tier 2 (A rating) Tier 2 General
 Fads Boutique ltd. | Tier 2 (A rating) Tier 2 General
 Faegre Baker Daniels LLP | Tier 2 (A rating) Tier 2 General
 Failbetter Games Ltd | Tier 2 (A rating) Tier 2 General
@@ -3630,11 +3631,11 @@ FLOREAT MERCHANT BANKING LIMITED | Tier 2 (A rating) Tier 2 General
 Florida State University International Programs Association UK | Tier 2 (A rating) Tier 2 General
 Floridita London Limited | Tier 2 (A rating) Tier 2 General
 Florin Court Capital LLP | Tier 2 (A rating) Tier 2 General
-Fluent Interaction Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Fluent Interaction Ltd | Tier 2 (A rating) Tier 2 General
 Fluent Studio Ltd | Tier 2 (A rating) Tier 2 General
 Fluent2 Limited | Tier 2 (A rating) Tier 2 General
 Fluid Structural Engineers and Technical Designers ltd | Tier 2 (A rating) Tier 2 General
-fluxx ltd | London, City of | Tier 2 (A rating) Tier 2 General
+fluxx ltd City of | Tier 2 (A rating) Tier 2 General
 Fly Victor Ltd | Tier 2 (A rating) Tier 2 General
 Flying Jamon Limited | Tier 2 (A rating) Tier 2 General
 Flypay | Tier 2 (A rating) Tier 2 General
@@ -3658,7 +3659,7 @@ FOREIGN BEGGARS LIVE LTD | Tier 2 (A rating) Tier 2 General
 Foremost 4 Media Limited | Tier 2 (A rating) Tier 2 General
 Forensic Risk Alliance Limited | Tier 2 (A rating) Tier 2 General
 ForeSee Results Ltd | Tier 2 (A rating) Tier 2 General
-Foresight Factory International Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Foresight Factory International Ltd | Tier 2 (A rating) Tier 2 General
 Foresight Metering Management Limited | Tier 2 (A rating) Tier 2 General
 Forest Payroll Ltd | Tier 2 (A rating) Tier 2 General
 Forest School, Essex | Tier 2 (A rating) Tier 2 General
@@ -3733,7 +3734,7 @@ Frere Hall Capital Management Ltd | Tier 2 (A rating) Tier 2 General
 Fresh & Wild Ltd TA Whole Foods Market | Tier 2 (A rating) Tier 2 General
 Fresh Fitness Food Limited | Tier 2 (A rating) Tier 2 General
 FRESH FOOD & HALAL MEAT LTD | Tier 2 (A rating) Tier 2 General
-Fresh Springs Dental Practice London Greater | Tier 2 (A rating) Tier 2 General
+Fresh Springs Dental Practice | Tier 2 (A rating) Tier 2 General
 Freshfields Service Company | Tier 2 (A rating) Tier 2 General
 FreshMinds Limited | Tier 2 (A rating) Tier 2 General
 FRESHORIZE LTD | Tier 2 (A rating) Tier 2 General
@@ -3765,7 +3766,7 @@ Fulham College Boys' School | Tier 2 (A rating) Tier 2 General
 FULHAM PHARMACY LTD | Tier 2 (A rating) Tier 2 General
 Fulham Prep School (2002) Ltd | Tier 2 (A rating) Tier 2 General
 Fulham Prep School Ltd | Tier 2 (A rating) Tier 2 General
-Fulham Reach Boat Club Ltd. Fulham | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+Fulham Reach Boat Club Ltd. Fulham | Tier 2 (A rating) Tier 2 General
 Fulkers LLP | Tier 2 (A rating) Tier 2 General
 Full Steam Espresso Ltd T/A Volcano Coffee Works | Tier 2 (A rating) Tier 2 General
 Fuller Smith and Turner PLC | Tier 2 (A rating) Tier 2 General
@@ -3797,7 +3798,7 @@ Future Finance Loan Corporation Limited | Tier 2 (A rating) Tier 2 General
 FUTURE GAMES OF London LTD | Tier 2 (A rating) Tier 2 General
 Future of London 2011 Ltd. | Tier 2 (A rating) Tier 2 General
 Future Platforms Limited | Tier 2 (A rating) Tier 2 General
-Future Workshops Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Future Workshops Ltd | Tier 2 (A rating) Tier 2 General
 Futurecity Ltd | Tier 2 (A rating) Tier 2 General
 Futures First (UK) Ltd | Tier 2 (A rating) Tier 2 General
 Futurice Limited | Tier 2 (A rating) Tier 2 General
@@ -3831,7 +3832,7 @@ Gamar | Tier 2 (A rating) Tier 2 General
 Gambit Research Ltd | Tier 2 (A rating) Tier 2 General
 Gambit Research Services Ltd | Tier 2 (A rating) Tier 2 General
 Gamco Asset Management (UK) Limited | Tier 2 (A rating) Tier 2 General
-Game Analytics Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Game Analytics Ltd | Tier 2 (A rating) Tier 2 General
 Gamesys Ltd | Tier 2 (A rating) Tier 2 General
 Gaming Technology Solutions Ltd (Trading as GTS Ltd) | Tier 2 (A rating) Tier 2 General
 GammaDelta Therapeutics Limited | Tier 2 (A rating) Tier 2 General
@@ -4025,7 +4026,7 @@ Global Noticeboard Holdings Ltd | Tier 2 (A rating) Tier 2 General
 Global Ports Holding plc | Tier 2 (A rating) Tier 2 General
 Global Poverty Project UK | Tier 2 (A rating) Tier 2 General
 Global Radio Services Limited | Tier 2 (A rating) Tier 2 General
-Global Reach Partners | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+Global Reach Partners | Tier 2 (A rating) Tier 2 General
 GLOBAL REGISTRATION SERVICES LIMITED | Tier 2 (A rating) Tier 2 General
 Global Relay UK Limited | Tier 2 (A rating) Tier 2 General
 Global Retail Brands UK Limited | Tier 2 (A rating) Tier 2 General
@@ -4076,7 +4077,7 @@ GoldenSource Corporation | Tier 2 (A rating) Tier 2 General
 GoldenTree Asset Management UK Service Co. Ltd. | Tier 2 (A rating) Tier 2 General
 Goldin & Co | Tier 2 (A rating) Tier 2 General
 Goldman Sachs (UK) SVC. Limited | Tier 2 (A rating) Tier 2 General
-Goldman Sachs International London Greater | Tier 2 (A rating) Tier 2 General
+Goldman Sachs International | Tier 2 (A rating) Tier 2 General
 Goldsmiths, University of | Tier 2 (A rating) Tier 2 General
 Goldstar Brand Limited T/A Caravan | Tier 2 (A rating) Tier 2 General
 GOLDSTEIN MUSIC LTD | Tier 2 (A rating) Tier 2 General
@@ -4130,7 +4131,7 @@ Graham Harrison Framing Ltd | Tier 2 (A rating) Tier 2 General
 GRAINGER GLOBAL ONLINE BUSINESS LTD. | Tier 2 (A rating) Tier 2 General
 Grakn Labs Limited | Tier 2 (A rating) Tier 2 General
 Gram Games Limited | Tier 2 (A rating) Tier 2 General
-GrandLine Studios Limited London Greater | Tier 2 (A rating) Tier 2 General
+GrandLine Studios Limited | Tier 2 (A rating) Tier 2 General
 Grange Park Junior School | Tier 2 (A rating) Tier 2 General
 Grange St. Paul's Hotel | Tier 2 (A rating) Tier 2 General
 Granit Chartered Architects Ltd | Tier 2 (A rating) Tier 2 General
@@ -4142,7 +4143,7 @@ Grantly Hotel Limited | Tier 2 (A rating) Tier 2 General
 GRANTTREE LTD | Tier 2 (A rating) Tier 2 General
 Graphene Star Limited | Tier 2 (A rating) Tier 2 General
 Graphite Capital Management LLP | Tier 2 (A rating) Tier 2 General
-Graphitene Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Graphitene Ltd | Tier 2 (A rating) Tier 2 General
 Graticule Asset Management Asia (UK) Limited | Tier 2 (A rating) Tier 2 General
 Gravity London Ltd | Tier 2 (A rating) Tier 2 General
 Grayling Communications Limited | Tier 2 (A rating) Tier 2 General
@@ -4331,7 +4332,7 @@ Hardman Structural Engineers Ltd | Tier 2 (A rating) Tier 2 General
 HARIN.IO LIMITED | Tier 2 (A rating) Tier 2 General
 Hark Group Limited | Tier 2 (A rating) Tier 2 General
 Harlequin Design (London) Limited | Tier 2 (A rating) Tier 2 General
-Harley Clinic ltd London Greater | Tier 2 (A rating) Tier 2 General
+Harley Clinic ltd | Tier 2 (A rating) Tier 2 General
 Harley Street Concierge Ltd | Tier 2 (A rating) Tier 2 General
 Harley Street Dental Clinic Limited | Tier 2 (A rating) Tier 2 General
 Harley Street Dental Studio LLP | Tier 2 (A rating) Tier 2 General
@@ -4348,7 +4349,7 @@ Harris Academy South Norwood | Tier 2 (A rating) Tier 2 General
 Harris City Academy Crystal Palace Crystal Palace | Tier 2 (A rating) Tier 2 General
 HARRIS GIRLS ACADEMY EAST DULWICH | Tier 2 (A rating) Tier 2 General
 Harris Williams & Co. Limited | Tier 2 (A rating) Tier 2 General
-Harrison Varma Design Services Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Harrison Varma Design Services Ltd | Tier 2 (A rating) Tier 2 General
 Harrison/Parrott Ltd | Tier 2 (A rating) Tier 2 General
 Harrods Ltd | Tier 2 (A rating) Tier 2 General
 HARRYS OF London LIMITED | Tier 2 (A rating) Tier 2 General
@@ -4412,7 +4413,7 @@ Hearsay Social UK Limited | Tier 2 (A rating) Tier 2 General
 Heart of London Ltd Wembley | Tier 2 (A rating) Tier 2 General
 HEARTCORE FITNESS LTD | Tier 2 (A rating) Tier 2 General
 Heartflow UK Limited | Tier 2 (A rating) Tier 2 General
-Heath House Prep School London Greater | Tier 2 (A rating) Tier 2 General
+Heath House Prep School | Tier 2 (A rating) Tier 2 General
 Heatherwick Studio | Tier 2 (A rating) Tier 2 General
 Heathlands Care Home Chingford | Tier 2 (A rating) Tier 2 General
 Heavy Entertainment Limited | Tier 2 (A rating) Tier 2 General
@@ -4791,7 +4792,7 @@ INCESSANT TECHNOLOGIES (UK) LTD GREATER | Tier 2 (A rating) Tier 2 General
 Inchbald School of Design | Tier 2 (A rating) Tier 2 General
 Inchcape Management (Services) Limited | Tier 2 (A rating) Tier 2 General
 Incite Marketing Planning Ltd | Tier 2 (A rating) Tier 2 General
-Inco Projects Limited | London, | Tier 2 (A rating) Tier 2 General
+Inco Projects Limited | Tier 2 (A rating) Tier 2 General
 Incopro Limited | Tier 2 (A rating) Tier 2 General
 Indegene Lifesystems Private Limited | Tier 2 (A rating) Tier 2 General
 Independant Petroleum Group Of Kuwait Ltd | Tier 2 (A rating) Tier 2 General
@@ -4825,7 +4826,7 @@ Infield Systems Limited | Tier 2 (A rating) Tier 2 General
 Infinite Global Consulting Limited | Tier 2 (A rating) Tier 2 General
 Infiniti Research Limited | Tier 2 (A rating) Tier 2 General
 Infinox capital Limited | Tier 2 (A rating) Tier 2 General
-Inflecto Media Limited London Greater | Tier 2 (A rating) Tier 2 General
+Inflecto Media Limited | Tier 2 (A rating) Tier 2 General
 Inflexion Private Equity Partners LLP | Tier 2 (A rating) Tier 2 General
 Inflobox UK Limited | Tier 2 (A rating) Tier 2 General
 Influence Digital Limited | Tier 2 (A rating) Tier 2 General
@@ -4861,7 +4862,7 @@ Inition Limited | Tier 2 (A rating) Tier 2 General
 INK ASSOCIATES LIMITED | Tier 2 (A rating) Tier 2 General
 Inmarsat | Tier 2 (A rating) Tier 2 General
 InMobi | Tier 2 (A rating) Tier 2 General
-Inn on the Park (London) Limited doing business as Four Seasons Hotel | LondonLondon | Tier 2 (A rating) Tier 2 General
+Inn on the Park (London) Limited doing business as Four Seasons Hotel | Tier 2 (A rating) Tier 2 General
 Inner Circle Consulting | Tier 2 (A rating) Tier 2 General
 INNERPLACE LIMITED | Tier 2 (A rating) Tier 2 General
 Innesco Ltd | Tier 2 (A rating) Tier 2 General
@@ -4897,12 +4898,12 @@ Installog Limited | Tier 2 (A rating) Tier 2 General
 Instant Makr Ltd | Tier 2 (A rating) Tier 2 General
 Instant Offices Limited | Tier 2 (A rating) Tier 2 General
 Instant Offices Limited | Tier 2 (A rating) Tier 2 General
-Instinct Studios Limited London Greater | Tier 2 (A rating) Tier 2 General
+Instinct Studios Limited | Tier 2 (A rating) Tier 2 General
 Instinctif Partners Limited | Tier 2 (A rating) Tier 2 General
 Instinet Global Services Limited | Tier 2 (A rating) Tier 2 General
 Institute for Fiscal Studies | Tier 2 (A rating) Tier 2 General
 Institute For Public Policy Research | Tier 2 (A rating) Tier 2 General
-Institute for Strategic Dialogue London Greater | Tier 2 (A rating) Tier 2 General
+Institute for Strategic Dialogue | Tier 2 (A rating) Tier 2 General
 Institute of Art London Limited | Tier 2 (A rating) Tier 2 General
 Institute of Chartered Shipbrokers | Tier 2 (A rating) Tier 2 General
 INSTITUTE OF CHINESE MEDICINE | Tier 2 (A rating) Tier 2 General
@@ -5141,7 +5142,7 @@ J.C.L.A. Ltd | Tier 2 (A rating) Tier 2 General
 Jacada ( Europe) Ltd | Tier 2 (A rating) Tier 2 General
 Jacada Travel | Tier 2 (A rating) Tier 2 General
 Jack Morton Worldwide | Tier 2 (A rating) Tier 2 General
-Jack Nadel International Limited London Greater | Tier 2 (A rating) Tier 2 General
+Jack Nadel International Limited | Tier 2 (A rating) Tier 2 General
 Jackdaw Capital Management Limited | Tier 2 (A rating) Tier 2 General
 Jackson's Art Supplies | Tier 2 (A rating) Tier 2 General
 Jacksons Lane | Tier 2 (A rating) Tier 2 General
@@ -5223,7 +5224,7 @@ Jinkichi Limited | Tier 2 (A rating) Tier 2 General
 Jinny Blom Limited | Tier 2 (A rating) Tier 2 General
 JIREHOUSE | Tier 2 (A rating) Tier 2 General
 JJ Roofing Supplies LTD | Tier 2 (A rating) Tier 2 General
-JKS Restaurants Limited London Greater | Tier 2 (A rating) Tier 2 General
+JKS Restaurants Limited | Tier 2 (A rating) Tier 2 General
 JKX Oil & Gas plc | Tier 2 (A rating) Tier 2 General
 JM FITNESS ISLINGTON STUDIO LIMITED | Tier 2 (A rating) Tier 2 General
 JMI Salons Limited | Tier 2 (A rating) Tier 2 General
@@ -5315,11 +5316,11 @@ K10 City Sushi LTD | Tier 2 (A rating) Tier 2 General
 K2 Intelligence Limited | Tier 2 (A rating) Tier 2 General
 K3K Networks Limited | Tier 2 (A rating) Tier 2 General
 Kadence International Ltd | Tier 2 (A rating) Tier 2 General
-Kahoot! Edu Limited London Greater | Tier 2 (A rating) Tier 2 General
+Kahoot! Edu Limited | Tier 2 (A rating) Tier 2 General
 KAI MAYFAIR LIMITED | Tier 2 (A rating) Tier 2 General
 Kaiser and Associates Ltd | Tier 2 (A rating) Tier 2 General
 Kaiser Associates International, Inc | Tier 2 (A rating) Tier 2 General
-Kaizen Reporting Limited | London,City of | Tier 2 (A rating) Tier 2 General
+Kaizen Reporting LimitedCity of | Tier 2 (A rating) Tier 2 General
 Kajima Europe Limited | Tier 2 (A rating) Tier 2 General
 Kala Atkinson | Tier 2 (A rating) Tier 2 General
 Kalakuta Sunrise Ltd | Tier 2 (A rating) Tier 2 General
@@ -5400,7 +5401,7 @@ KENSHOO (UK) LTD | Tier 2 (A rating) Tier 2 General
 Kensington Aldridge Academy | Tier 2 (A rating) Tier 2 General
 Kensington College of Business | Tier 2 (A rating) Tier 2 General
 Kensington Insurance Brokers | Tier 2 (A rating) Tier 2 General
-Kensington Park School Limited t/a Kensington Park School London Greater | Tier 2 (A rating) Tier 2 General
+Kensington Park School Limited t/a Kensington Park School | Tier 2 (A rating) Tier 2 General
 Kensington Physio Limited | Tier 2 (A rating) Tier 2 General
 Kensington Plaza Hotel Ltd T/A Rydges Kensington | Tier 2 (A rating) Tier 2 General
 Kent Foursquare Gospel Church UK Greenwich | Tier 2 (A rating) Tier 2 General
@@ -5421,7 +5422,7 @@ KFG Restaurants Ltd | Tier 2 (A rating) Tier 2 General
 KGHL Research (UK) Ltd | Tier 2 (A rating) Tier 2 General
 Khazanah Europe Investment Limited | Tier 2 (A rating) Tier 2 General
 Khing Ltd | Tier 2 (A rating) Tier 2 General
-KHWS Limited London Greater | Tier 2 (A rating) Tier 2 General
+KHWS Limited | Tier 2 (A rating) Tier 2 General
 Kiely Rowan plc | Tier 2 (A rating) Tier 2 General
 Kiku Restaurants Ltd. | Tier 2 (A rating) Tier 2 General
 Kilburn & Strode LLP | Tier 2 (A rating) Tier 2 General
@@ -5492,8 +5493,8 @@ Kobalt Music Group Ltd | Tier 2 (A rating) Tier 2 General
 KOBKUN LTD | Tier 2 (A rating) Tier 2 General
 Kobre & Kim (UK) LLP | Tier 2 (A rating) Tier 2 General
 Koch Supply and Trading Company | Tier 2 (A rating) Tier 2 General
-Kofax Northern Ireland Ltd | Londonderry | Tier 2 (A rating) Tier 2 General
-Koffeecup | London, City of | Tier 2 (A rating) Tier 2 General
+Kofax Northern Ireland Ltd | Tier 2 (A rating) Tier 2 General
+Koffeecup City of | Tier 2 (A rating) Tier 2 General
 Kohlberg Kravis Roberts & Co. Partners LLP | Tier 2 (A rating) Tier 2 General
 Kohn Pedersen Fox Associates International PA | Tier 2 (A rating) Tier 2 General
 KOIS UK | Tier 2 (A rating) Tier 2 General
@@ -5564,7 +5565,7 @@ L1 RETAIL (UK) LLP | Tier 2 (A rating) Tier 2 General
 L-3 Communications UK Limited | Tier 2 (A rating) Tier 2 General
 LA COMPAGNIE DES DESSERTS LTD | Tier 2 (A rating) Tier 2 General
 La Fosse Associates Ltd | Tier 2 (A rating) Tier 2 General
-La Perla Global Management (UK) Ltd London Greater | Tier 2 (A rating) Tier 2 General
+La Perla Global Management (UK) Ltd | Tier 2 (A rating) Tier 2 General
 La Sainte Union Catholic School | Tier 2 (A rating) Tier 2 General
 La Tua Pasta Limited | Tier 2 (A rating) Tier 2 General
 LAB49 UK Limited | Tier 2 (A rating) Tier 2 General
@@ -5774,7 +5775,7 @@ Lisa's Law Solicitors | Tier 2 (A rating) Tier 2 General
 Listen Limited | Tier 2 (A rating) Tier 2 General
 Lithium International, Inc | Tier 2 (A rating) Tier 2 General
 LITTLE ANGELS NURSERY SCHOOL | Tier 2 (A rating) Tier 2 General
-Little Bridge Limited London Greater | Tier 2 (A rating) Tier 2 General
+Little Bridge Limited | Tier 2 (A rating) Tier 2 General
 Little Concert Operations UK Limited | Tier 2 (A rating) Tier 2 General
 Little Ember Limited T/a Andrew Jose Salon | Tier 2 (A rating) Tier 2 General
 Little Forest Ltd | Tier 2 (A rating) Tier 2 General
@@ -5790,7 +5791,7 @@ Livebookings Holdings Limited | Tier 2 (A rating) Tier 2 General
 Livedrive Internet Limited | Tier 2 (A rating) Tier 2 General
 LiveIntent Limited | Tier 2 (A rating) Tier 2 General
 Livesmart U.K. Limited | Tier 2 (A rating) Tier 2 General
-LIVEWORK STUDIO LTD London Greater | Tier 2 (A rating) Tier 2 General
+LIVEWORK STUDIO LTD | Tier 2 (A rating) Tier 2 General
 Liv-Ex Ltd | Tier 2 (A rating) Tier 2 General
 Living Spring Nursery Ltd London Brent | Tier 2 (A rating) Tier 2 General
 LJ Capital Limited | Tier 2 (A rating) Tier 2 General
@@ -5815,7 +5816,7 @@ L'Occitane Limited | Tier 2 (A rating) Tier 2 General
 Locke Lord (UK) LLP | Tier 2 (A rating) Tier 2 General
 Lockside Lounge Ltd Camden Town | Tier 2 (A rating) Tier 2 General
 Locksmith Animation Limited | Tier 2 (A rating) Tier 2 General
-Loco2 Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Loco2 Ltd | Tier 2 (A rating) Tier 2 General
 Locus Intellect Limited | Tier 2 (A rating) Tier 2 General
 Lodestone Oxford Limited T/As Lodestone Communications | Tier 2 (A rating) Tier 2 General
 Lodha Developers UK Limited | Tier 2 (A rating) Tier 2 General
@@ -5918,12 +5919,12 @@ London Philharmonic Orchestra | Tier 2 (A rating) Tier 2 General
 London Property Zone Ltd | Tier 2 (A rating) Tier 2 General
 London Research International Ltd. | Tier 2 (A rating) Tier 2 General
 London Review of Books (LRB) Ltd | Tier 2 (A rating) Tier 2 General
-LONDON RUGBY LEAGUE LIMITED West Ealing | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+LONDON RUGBY LEAGUE LIMITED West Ealing | Tier 2 (A rating) Tier 2 General
 London Russian Ballet School | Tier 2 (A rating) Tier 2 General
 London Scans Limited London Greate | Tier 2 (A rating) Tier 2 General
 London School of Business and Management | Tier 2 (A rating) Tier 2 General
 London School of Commerce (A Division of St.Piran's School (GB) Limited | Tier 2 (A rating) Tier 2 General
-London School of Hygiene & Tropical Medicine London Greater | Tier 2 (A rating) Tier 2 General
+London School of Hygiene & Tropical Medicine | Tier 2 (A rating) Tier 2 General
 London School of Management Education Manor Park | Tier 2 (A rating) Tier 2 General
 London School of Theology Northwood Middlesex | Tier 2 (A rating) Tier 2 General
 London Scottish International Limited Richmond Surrey | Tier 2 (A rating) Tier 2 General
@@ -5986,14 +5987,14 @@ Low Carbon Limited | Tier 2 (A rating) Tier 2 General
 Lowcost Vehicle Rental (UK) Limited | Tier 2 (A rating) Tier 2 General
 LoyaltyLion | Tier 2 (A rating) Tier 2 General
 Loylogic UK Limited | Tier 2 (A rating) Tier 2 General
-LQM PETROLEUM SERVICES INC London Greater | Tier 2 (A rating) Tier 2 General
+LQM PETROLEUM SERVICES INC | Tier 2 (A rating) Tier 2 General
 LRE Capital Limited | Tier 2 (A rating) Tier 2 General
 LRWTonic, ltd | Tier 2 (A rating) Tier 2 General
 LS Cable & System UK Limited | Tier 2 (A rating) Tier 2 General
 LS Legal Solicitors | Tier 2 (A rating) Tier 2 General
-LShift Limited London Greater | Tier 2 (A rating) Tier 2 General
+LShift Limited | Tier 2 (A rating) Tier 2 General
 LSI Education | Tier 2 (A rating) Tier 2 General
-LTA Services LTD | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+LTA Services LTD | Tier 2 (A rating) Tier 2 General
 LTS Advisory Limited | Tier 2 (A rating) Tier 2 General
 LTS Health UK Limited | Tier 2 (A rating) Tier 2 General
 Lu Oliphant Solicitors LLP | Tier 2 (A rating) Tier 2 General
@@ -6283,7 +6284,7 @@ Mazars LLP | Tier 2 (A rating) Tier 2 General
 MAZEKEY ASSOCIATES LTD | Tier 2 (A rating) Tier 2 General
 Mazepoint Ltd | Tier 2 (A rating) Tier 2 General
 MBA and Company Consultancy Ltd | Tier 2 (A rating) Tier 2 General
-MBA Group Ltd | London, | Tier 2 (A rating) Tier 2 General
+MBA Group Ltd | Tier 2 (A rating) Tier 2 General
 MBI & PARTNERS U.K. LIMITED | Tier 2 (A rating) Tier 2 General
 MBR Partners Limited | Tier 2 (A rating) Tier 2 General
 MBRV Projects Limited Colliers Wood | Tier 2 (A rating) Tier 2 General
@@ -6350,7 +6351,7 @@ Medpace UK Limited | Tier 2 (A rating) Tier 2 General
 MedTel UK Ltd | Tier 2 (A rating) Tier 2 General
 Meedia Limited | Tier 2 (A rating) Tier 2 General
 Meer & Company Chartered Accountants | Tier 2 (A rating) Tier 2 General
-Meeres Civil Engineering Limited London Greater | Tier 2 (A rating) Tier 2 General
+Meeres Civil Engineering Limited | Tier 2 (A rating) Tier 2 General
 Mega International Commercial Bank | Tier 2 (A rating) Tier 2 General
 MEGATREND CAPITAL PARTNERS LTD | Tier 2 (A rating) Tier 2 General
 MEGHRAJ CAPITAL LLP | Tier 2 (A rating) Tier 2 General
@@ -6375,7 +6376,7 @@ Mercantile & Maritime UK Limited | Tier 2 (A rating) Tier 2 General
 Mercari Europe Ltd | Tier 2 (A rating) Tier 2 General
 Mercaux Limited | Tier 2 (A rating) Tier 2 General
 Mercer Ltd | Tier 2 (A rating) Tier 2 General
-Mercer Real Estate Advisors London Greater | Tier 2 (A rating) Tier 2 General
+Mercer Real Estate Advisors | Tier 2 (A rating) Tier 2 General
 Merchandising Technologies UK Limited | Tier 2 (A rating) Tier 2 General
 Merchant Hub Limited | Tier 2 (A rating) Tier 2 General
 Merchant Money Ltd | Tier 2 (A rating) Tier 2 General
@@ -6516,7 +6517,7 @@ Ministry of Paintball UK Limited | Tier 2 (A rating) Tier 2 General
 Ministry of Sound Group Ltd | Tier 2 (A rating) Tier 2 General
 Minmetals (UK) Ltd | Tier 2 (A rating) Tier 2 General
 MINMETALS IRON & STEEL UK LTD | Tier 2 (A rating) Tier 2 General
-MINORITY RIGHTS GROUP London Greater | Tier 2 (A rating) Tier 2 General
+MINORITY RIGHTS GROUP | Tier 2 (A rating) Tier 2 General
 Mint Global Ltd T/A Pace Media | Tier 2 (A rating) Tier 2 General
 Mintel Group Ltd | Tier 2 (A rating) Tier 2 General
 Minter Ellison | Tier 2 (A rating) Tier 2 General
@@ -6609,7 +6610,7 @@ Momentum Services Ltd | Tier 2 (A rating) Tier 2 General
 Momentum Transport Planning Limited | Tier 2 (A rating) Tier 2 General
 Monad Group Holdings Limited | Tier 2 (A rating) Tier 2 General
 Monakka Monowar Welfare Foundation | Tier 2 (A rating) Tier 2 General
-Monarch Alternative Capital (Europe) Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Monarch Alternative Capital (Europe) Ltd | Tier 2 (A rating) Tier 2 General
 MONDAQ LIMITED | Tier 2 (A rating) Tier 2 General
 Mondrian Alpha Ltd | Tier 2 (A rating) Tier 2 General
 Mondrian Investment Partners Limited | Tier 2 (A rating) Tier 2 General
@@ -6617,7 +6618,7 @@ Monecor (London) Limited | Tier 2 (A rating) Tier 2 General
 Monex Europe Limited | Tier 2 (A rating) Tier 2 General
 MoneyGram International Ltd. | Tier 2 (A rating) Tier 2 General
 MongoDB UK LIMITED | Tier 2 (A rating) Tier 2 General
-Monica Vinader Limited London Greater | Tier 2 (A rating) Tier 2 General
+Monica Vinader Limited | Tier 2 (A rating) Tier 2 General
 MONIKA SPRUTH & PHILOMENE MAGERS LIMITED | Tier 2 (A rating) Tier 2 General
 Monitor (NHS Improvement) | Tier 2 (A rating) Tier 2 General
 Monogram Capital Management LLP | Tier 2 (A rating) Tier 2 General
@@ -6725,7 +6726,7 @@ Mulberry Marketing Communications Limited | Tier 2 (A rating) Tier 2 General
 Mulesoft UK Limited | Tier 2 (A rating) Tier 2 General
 MullenLowe Group Limited | Tier 2 (A rating) Tier 2 General
 MullenLowe London Limited | Tier 2 (A rating) Tier 2 General
-MullenLowe Profero Ltd London Greater | Tier 2 (A rating) Tier 2 General
+MullenLowe Profero Ltd | Tier 2 (A rating) Tier 2 General
 Multiple Sclerosis International Federation | Tier 2 (A rating) Tier 2 General
 Multiplex Construction Europe Limited | Tier 2 (A rating) Tier 2 General
 MULTITOP ACCOUNTANTS | Tier 2 (A rating) Tier 2 General
@@ -6910,7 +6911,7 @@ Newpark Childcare (Wandsworth) Limited | Tier 2 (A rating) Tier 2 General
 Newport Services (UK) Limited | Tier 2 (A rating) Tier 2 General
 News Corp UK & Ireland Limited | Tier 2 (A rating) Tier 2 General
 NewsCred Ltd London Fitzrovia | Tier 2 (A rating) Tier 2 General
-Newsdesk Media Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Newsdesk Media Ltd | Tier 2 (A rating) Tier 2 General
 Newsflare Limited | Tier 2 (A rating) Tier 2 General
 NewTA Limited T/a UK Finance | Tier 2 (A rating) Tier 2 General
 Newton Co-Educational Preparatory School | Tier 2 (A rating) Tier 2 General
@@ -7225,7 +7226,7 @@ Opera Gallery Group Ltd | Tier 2 (A rating) Tier 2 General
 Opera Solutions Limited | Tier 2 (A rating) Tier 2 General
 Operation Schoener Limited | Tier 2 (A rating) Tier 2 General
 Operations Analyst | Tier 2 (A rating) Tier 2 General
-OPERIS GROUP PLC London Greater | Tier 2 (A rating) Tier 2 General
+OPERIS GROUP PLC | Tier 2 (A rating) Tier 2 General
 Opet International Ltd | Tier 2 (A rating) Tier 2 General
 OPHIR ENERGY PLC | Tier 2 (A rating) Tier 2 General
 Opinion Research Business Limited Holborn | Tier 2 (A rating) Tier 2 General
@@ -7314,7 +7315,7 @@ Overbury Plc | Tier 2 (A rating) Tier 2 General
 Oversea-Chinese Banking Corporation Ltd | Tier 2 (A rating) Tier 2 General
 Overseas Development Institute | Tier 2 (A rating) Tier 2 General
 Overseas Interpreting Ltd | Tier 2 (A rating) Tier 2 General
-Overthrow Digital Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Overthrow Digital Ltd | Tier 2 (A rating) Tier 2 General
 Overture London Limited | Tier 2 (A rating) Tier 2 General
 Overview Ltd | Tier 2 (A rating) Tier 2 General
 OWL Websites Ltd | Tier 2 (A rating) Tier 2 General
@@ -7481,7 +7482,7 @@ Pentland Brands plc | Tier 2 (A rating) Tier 2 General
 Penza Ltd | Tier 2 (A rating) Tier 2 General
 People Blueprint Ltd | Tier 2 (A rating) Tier 2 General
 People First (recruitment) Ltd | Tier 2 (A rating) Tier 2 General
-Peoplefluent Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Peoplefluent Ltd | Tier 2 (A rating) Tier 2 General
 People's Daily Online UK Ltd | Tier 2 (A rating) Tier 2 General
 People's Health Trust | Tier 2 (A rating) Tier 2 General
 People's Palace Projects | Tier 2 (A rating) Tier 2 General
@@ -7721,7 +7722,7 @@ Precious Media Limited | Tier 2 (A rating) Tier 2 General
 Precis Management Services Ltd | Tier 2 (A rating) Tier 2 General
 Precision Engineering Plastics Limited | Tier 2 (A rating) Tier 2 General
 Precision for Value UK Limited | Tier 2 (A rating) Tier 2 General
-Precision Global Consulting Ltd | London, | Tier 2 (A rating) Tier 2 General
+Precision Global Consulting Ltd | Tier 2 (A rating) Tier 2 General
 Preferred Global Health Europe Limited | Tier 2 (A rating) Tier 2 General
 Preiskel & Co LLP | Tier 2 (A rating) Tier 2 General
 Premaeus Investments Limited | Tier 2 (A rating) Tier 2 General
@@ -7788,7 +7789,7 @@ Proactiveinvestors UK Limited | Tier 2 (A rating) Tier 2 General
 Probitas 1492 Services Limited | Tier 2 (A rating) Tier 2 General
 Procam Television Holdings Ltd London Select State | Tier 2 (A rating) Tier 2 General
 Process Systems Enterprise Ltd | Tier 2 (A rating) Tier 2 General
-Proclinical London Greater | Tier 2 (A rating) Tier 2 General
+Proclinical | Tier 2 (A rating) Tier 2 General
 Proco Global Limited | Tier 2 (A rating) Tier 2 General
 Proctor and Matthews Limited | Tier 2 (A rating) Tier 2 General
 Procurious Limited | Tier 2 (A rating) Tier 2 General
@@ -7806,7 +7807,7 @@ Prolifics Inc | Tier 2 (A rating) Tier 2 General
 PROLOGIC FIRST UK LTD | Tier 2 (A rating) Tier 2 General
 PromisedLand Academy | Tier 2 (A rating) Tier 2 General
 Promontory Financial Group (UK) Limited | Tier 2 (A rating) Tier 2 General
-Pronto Technology Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Pronto Technology Ltd | Tier 2 (A rating) Tier 2 General
 PROPELLER COMMUNICATIONS LTD COVENT GARDEN | Tier 2 (A rating) Tier 2 General
 Propeller Group Ltd | Tier 2 (A rating) Tier 2 General
 Propeller TV Limited | Tier 2 (A rating) Tier 2 General
@@ -7826,7 +7827,7 @@ Protein World Limited | Tier 2 (A rating) Tier 2 General
 Proteome Sciences plc | Tier 2 (A rating) Tier 2 General
 Proterra Investment Partners LLP | Tier 2 (A rating) Tier 2 General
 Protiviti Limited | Tier 2 (A rating) Tier 2 General
-PROTON AVIATION CAPITAL LTD London Greater | Tier 2 (A rating) Tier 2 General
+PROTON AVIATION CAPITAL LTD | Tier 2 (A rating) Tier 2 General
 Providence Equity LLP | Tier 2 (A rating) Tier 2 General
 Providentia Capital LLP | Tier 2 (A rating) Tier 2 General
 PRS for Music Limited | Tier 2 (A rating) Tier 2 General
@@ -7890,7 +7891,7 @@ QATARI DIAR UK LIMITED | Tier 2 (A rating) Tier 2 General
 QBE Management Services (UK) Limited | Tier 2 (A rating) Tier 2 General
 Q-Bot LTD | Tier 2 (A rating) Tier 2 General
 QED Investors UK Limited | Tier 2 (A rating) Tier 2 General
-QIB (UK) plc London Greater | Tier 2 (A rating) Tier 2 General
+QIB (UK) plc | Tier 2 (A rating) Tier 2 General
 QIC (UK) Management Limited | Tier 2 (A rating) Tier 2 General
 QILA BIOGAS LIMITED TRADING AS QILA ENERGY | Tier 2 (A rating) Tier 2 General
 Qlearsite Ltd | Tier 2 (A rating) Tier 2 General
@@ -7933,10 +7934,10 @@ Qudini Limited | Tier 2 (A rating) Tier 2 General
 Queen Mary University of | Tier 2 (A rating) Tier 2 General
 Queen's Gate School Trust Limited | Tier 2 (A rating) Tier 2 General
 Queens Park Community School Academy Trust | Tier 2 (A rating) Tier 2 General
-Queens Park Rangers Football & Athletic Club Limited | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+Queens Park Rangers Football & Athletic Club Limited | Tier 2 (A rating) Tier 2 General
 Queensgate Investments LLP | Tier 2 (A rating) Tier 2 General
 Quercus Investment Partners Limited | Tier 2 (A rating) Tier 2 General
-Quest Management UK Limited London Greater | Tier 2 (A rating) Tier 2 General
+Quest Management UK Limited | Tier 2 (A rating) Tier 2 General
 Questback Limited | Tier 2 (A rating) Tier 2 General
 Questionmark Computing Limited | Tier 2 (A rating) Tier 2 General
 QuickThink Digital Limited | Tier 2 (A rating) Tier 2 General
@@ -8007,7 +8008,7 @@ Rainmaking Innovation Limited | Tier 2 (A rating) Tier 2 General
 Raising IT Limited | Tier 2 (A rating) Tier 2 General
 RAJIO TAISO LTD (Chinese Laundry - Restaurant) | Tier 2 (A rating) Tier 2 General
 Rakuten Marketing Europe Limited | Tier 2 (A rating) Tier 2 General
-Ralph & Russo Ltd. | London, City of | Tier 2 (A rating) Tier 2 General
+Ralph & Russo Ltd. City of | Tier 2 (A rating) Tier 2 General
 Ralph Appelbaum Associates Inc | Tier 2 (A rating) Tier 2 General
 Rambert | Tier 2 (A rating) Tier 2 General
 Ramboll Environ UK Ltd | Tier 2 (A rating) Tier 2 General
@@ -8128,7 +8129,7 @@ Removal Stars Ltd (trading as Buzzmove) | Tier 2 (A rating) Tier 2 General
 Renair Antennae Limited | Tier 2 (A rating) Tier 2 General
 Renaisi Limited | Tier 2 (A rating) Tier 2 General
 Renaissance Capital Limited | Tier 2 (A rating) Tier 2 General
-Renaissance Solicitors LLP London Greater | Tier 2 (A rating) Tier 2 General
+Renaissance Solicitors LLP | Tier 2 (A rating) Tier 2 General
 Renaissance Strategic Advisors Limited | Tier 2 (A rating) Tier 2 General
 Renaissance Wealth Management (UK) Limited | Tier 2 (A rating) Tier 2 General
 RenaissanceRe Syndicate Management Limited | Tier 2 (A rating) Tier 2 General
@@ -8427,11 +8428,11 @@ Safanad (UK) Limited | Tier 2 (A rating) Tier 2 General
 Safari Kid United Kingdom Limited | Tier 2 (A rating) Tier 2 General
 Safari Mobile (UK) Ltd | Tier 2 (A rating) Tier 2 General
 Safe Apps Limited | Tier 2 (A rating) Tier 2 General
-SAFECARE CHRYSALIS LTD MAGHERAFELT | LondonDERRY | Tier 2 (A rating) Tier 2 General
+SAFECARE CHRYSALIS LTD MAGHERAFELT | Tier 2 (A rating) Tier 2 General
 SafeKick Limited | Tier 2 (A rating) Tier 2 General
 Safeonline LLP | Tier 2 (A rating) Tier 2 General
 Saferworld | Tier 2 (A rating) Tier 2 General
-SAFETONET LIMITED | London, United Kingdom | Tier 2 (A rating) Tier 2 General
+SAFETONET LIMITED United Kingdom | Tier 2 (A rating) Tier 2 General
 Saffery Champness LLP | Tier 2 (A rating) Tier 2 General
 Saffron Brand Consultants Ltd | Tier 2 (A rating) Tier 2 General
 Saffron Club Ltd | Tier 2 (A rating) Tier 2 General
@@ -8511,7 +8512,7 @@ Sapien Capital Limited | Tier 2 (A rating) Tier 2 General
 Sapient Limited | Tier 2 (A rating) Tier 2 General
 Sapna Caterers Limited | Tier 2 (A rating) Tier 2 General
 Sapphire Systems plc | Tier 2 (A rating) Tier 2 General
-SARACENS LIMITED | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+SARACENS LIMITED | Tier 2 (A rating) Tier 2 General
 Saracens Solicitors | Tier 2 (A rating) Tier 2 General
 Sarasin & Partners LLP | Tier 2 (A rating) Tier 2 General
 Sarayutech Limited | Tier 2 (A rating) Tier 2 General
@@ -8526,7 +8527,7 @@ Satore Studio | Tier 2 (A rating) Tier 2 General
 Satori Consulting International Ltd | Tier 2 (A rating) Tier 2 General
 Satoshi Systems Limited | Tier 2 (A rating) Tier 2 General
 Satya Capital LLP | Tier 2 (A rating) Tier 2 General
-Satyan Jewellers Limited London Greater | Tier 2 (A rating) Tier 2 General
+Satyan Jewellers Limited | Tier 2 (A rating) Tier 2 General
 SAV Development Limited | Tier 2 (A rating) Tier 2 General
 Save The Children International 30 Orange Street | Tier 2 (A rating) Tier 2 General
 Save the Children UK Farringdon | Tier 2 (A rating) Tier 2 General
@@ -8590,7 +8591,7 @@ Seaco Global Ltd | Tier 2 (A rating) Tier 2 General
 Seadrill Management Ltd | Tier 2 (A rating) Tier 2 General
 Seafood Holdings Limited (t/a Direct Seafoods) | Tier 2 (A rating) Tier 2 General
 Seaforth Land Holdings Limited | Tier 2 (A rating) Tier 2 General
-Seagate Technology (Ireland) | Londonderry Northern Ireland | Tier 2 (A rating) Tier 2 General
+Seagate Technology (Ireland) Northern Ireland | Tier 2 (A rating) Tier 2 General
 Seam Design Ltd | Tier 2 (A rating) Tier 2 General
 Seamless Europe Limited | Tier 2 (A rating) Tier 2 General
 Seamsystemic Limited | Tier 2 (A rating) Tier 2 General
@@ -8602,7 +8603,7 @@ SEB | Tier 2 (A rating) Tier 2 General
 SEC Recruitment Ltd | Tier 2 (A rating) Tier 2 General
 SECFORCE LTD | Tier 2 (A rating) Tier 2 General
 SECOR Investment Advisors (UK) LLP | Tier 2 (A rating) Tier 2 General
-Secret Escapes LTD | London, City of | Tier 2 (A rating) Tier 2 General
+Secret Escapes LTD City of | Tier 2 (A rating) Tier 2 General
 Secret Sales Limited t/a secretsales.com | Tier 2 (A rating) Tier 2 General
 Secretcape Ltd | Tier 2 (A rating) Tier 2 General
 Sectorlight Marketing & Design Limited | Tier 2 (A rating) Tier 2 General
@@ -8735,7 +8736,7 @@ Shutterstock (UK) Ltd | Tier 2 (A rating) Tier 2 General
 Shy Aviation Limited | Tier 2 (A rating) Tier 2 General
 Sia Partners UK PLC | Tier 2 (A rating) Tier 2 General
 SIAHAF Management Ltd | Tier 2 (A rating) Tier 2 General
-SICP LLP London Greater | Tier 2 (A rating) Tier 2 General
+SICP LLP | Tier 2 (A rating) Tier 2 General
 Sidikies | Tier 2 (A rating) Tier 2 General
 Sidley Austin LLP | Tier 2 (A rating) Tier 2 General
 Sify Technologies Limited | Tier 2 (A rating) Tier 2 General
@@ -8797,7 +8798,7 @@ SIMPSON THACHER & BARTLETT LLP | Tier 2 (A rating) Tier 2 General
 Simudyne Limited | Tier 2 (A rating) Tier 2 General
 Sinfonietta Productions Ltd (trading as London Sinfonietta) | Tier 2 (A rating) Tier 2 General
 Singapore Exchange Limited | Tier 2 (A rating) Tier 2 General
-Singh Masala Ltd t/a Mama Masala | Londonderry | Londonderry | Tier 2 (A rating) Tier 2 General
+Singh Masala Ltd t/a Mama Masala | Tier 2 (A rating) Tier 2 General
 Singletrack Systems Limited | Tier 2 (A rating) Tier 2 General
 SINGTEL (EUROPE) LIMITED | Tier 2 (A rating) Tier 2 General
 Singular Systems UK Limited | Tier 2 (A rating) Tier 2 General
@@ -8939,8 +8940,8 @@ Solace Systems (UK) Inc. | Tier 2 (A rating) Tier 2 General
 Solar Productions Ltd | Tier 2 (A rating) Tier 2 General
 Solarcentury Holdings Limited | Tier 2 (A rating) Tier 2 General
 Soleal ltd t/a MYTHERAPY | Tier 2 (A rating) Tier 2 General
-Solid Labs London Greater | Tier 2 (A rating) Tier 2 General
-Solo Oil PLC London Greater | Tier 2 (A rating) Tier 2 General
+Solid Labs | Tier 2 (A rating) Tier 2 General
+Solo Oil PLC | Tier 2 (A rating) Tier 2 General
 Solomon Capital Investments Ltd | Tier 2 (A rating) Tier 2 General
 Solon Management Consulting Ltd. | Tier 2 (A rating) Tier 2 General
 Soltad Associates Limited T/A Yuzu | Tier 2 (A rating) Tier 2 General
@@ -8977,7 +8978,7 @@ Sotheby's | Tier 2 (A rating) Tier 2 General
 Soulful Food Limited | Tier 2 (A rating) Tier 2 General
 Soundings (Consultation) Ltd | Tier 2 (A rating) Tier 2 General
 Soundmouse Ltd | Tier 2 (A rating) Tier 2 General
-Sourceable T/A Swoon Editions London Greater | Tier 2 (A rating) Tier 2 General
+Sourceable T/A Swoon Editions | Tier 2 (A rating) Tier 2 General
 SOUSOU PARTNERS LLP | Tier 2 (A rating) Tier 2 General
 South Asian Asset Management Ltd | Tier 2 (A rating) Tier 2 General
 South Bank Academies | Tier 2 (A rating) Tier 2 General
@@ -9049,7 +9050,7 @@ SPINACH DESIGN LTD | Tier 2 (A rating) Tier 2 General
 Spinach Limited | Tier 2 (A rating) Tier 2 General
 Spindrift Consulting UK Limited | Tier 2 (A rating) Tier 2 General
 SPINNAKER CAPITAL LIMITED | Tier 2 (A rating) Tier 2 General
-Spiral Productions Limited London Greater | Tier 2 (A rating) Tier 2 General
+Spiral Productions Limited | Tier 2 (A rating) Tier 2 General
 Spire Healthcare Ltd | Tier 2 (A rating) Tier 2 General
 SPITCH UK LIMITED | Tier 2 (A rating) Tier 2 General
 Splash Damage Ltd Bromley Greater | Tier 2 (A rating) Tier 2 General
@@ -9082,7 +9083,7 @@ Sprint Physiotherapy Ltd | Tier 2 (A rating) Tier 2 General
 Sprout Technologies Ltd | Tier 2 (A rating) Tier 2 General
 SPS EUROPE LTD | Tier 2 (A rating) Tier 2 General
 Spurgeon's College | Tier 2 (A rating) Tier 2 General
-SPV Baseline Limited London Greater | Tier 2 (A rating) Tier 2 General
+SPV Baseline Limited | Tier 2 (A rating) Tier 2 General
 SPX International Asset Management Ltd. | Tier 2 (A rating) Tier 2 General
 SQR Security Solutions Ltd | Tier 2 (A rating) Tier 2 General
 SQS BFSI UK LTD | Tier 2 (A rating) Tier 2 General
@@ -9267,7 +9268,7 @@ Strategic Value Partners (UK) LLP | Tier 2 (A rating) Tier 2 General
 Stratford College London Limited | Tier 2 (A rating) Tier 2 General
 Stratford Health Centre | Tier 2 (A rating) Tier 2 General
 Strawberry Star Associates Ltd | Tier 2 (A rating) Tier 2 General
-Stream UK Media Services Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Stream UK Media Services Ltd | Tier 2 (A rating) Tier 2 General
 Streaming Tank Limited | Tier 2 (A rating) Tier 2 General
 Streaming Well Ltd | Tier 2 (A rating) Tier 2 General
 Streamlined Communications Limited | Tier 2 (A rating) Tier 2 General
@@ -9365,7 +9366,7 @@ Surface Measurement Systems Ltd Wembley | Tier 2 (A rating) Tier 2 General
 Surface to Air Ltd | Tier 2 (A rating) Tier 2 General
 Surfdome Shop Ltd | Tier 2 (A rating) Tier 2 General
 Surma Travels Pvt (UK) Ltd | Tier 2 (A rating) Tier 2 General
-Surrey County Cricket Club Limited Kennington | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+Surrey County Cricket Club Limited Kennington | Tier 2 (A rating) Tier 2 General
 Survey Sampling UK Limited | Tier 2 (A rating) Tier 2 General
 SurveyMonkey UK Limited | Tier 2 (A rating) Tier 2 General
 Susan Metcalfe Ltd T/A Susan Metcalfe Residential | Tier 2 (A rating) Tier 2 General
@@ -9493,7 +9494,7 @@ Tarsus Group Limited | Tier 2 (A rating) Tier 2 General
 Tassomai Ltd | Tier 2 (A rating) Tier 2 General
 TATA Capital plc | Tier 2 (A rating) Tier 2 General
 TATA Communications (UK) Limited | Tier 2 (A rating) Tier 2 General
-Tata Consultancy Services London Greater | Tier 2 (A Premium) Tier 2 General | Yes
+Tata Consultancy Services | Tier 2 (A Premium) Tier 2 General | Yes
 TATA ELXSI LTD | Tier 2 (A rating) Tier 2 General
 TATA Interactive Systems | Tier 2 (A rating) Tier 2 General
 Tata International Metals (UK) Limited | Tier 2 (A rating) Tier 2 General
@@ -9504,7 +9505,7 @@ Tateossian Limited | Tier 2 (A rating) Tier 2 General
 Tatham Macinnes LLP | Tier 2 (A rating) Tier 2 General
 Tatoumik Ltd | Tier 2 (A rating) Tier 2 General
 Tattersall Love Ltd | Tier 2 (A rating) Tier 2 General
-Tatvasoft UK Limited London Greater | Tier 2 (A rating) Tier 2 General
+Tatvasoft UK Limited | Tier 2 (A rating) Tier 2 General
 Taurus Consultancy Ltd | Tier 2 (A rating) Tier 2 General
 Tavistock and Portman NHS Foundation Trust | Tier 2 (A rating) Tier 2 General
 Tax Advisory Partnership Limited | Tier 2 (A rating) Tier 2 General
@@ -9543,7 +9544,7 @@ TECHNIP E&C LIMITED | Tier 2 (A rating) Tier 2 General
 Technology Crossover Ventures UK, LLP | Tier 2 (A rating) Tier 2 General
 Techspace Property Group Ltd | Tier 2 (A rating) Tier 2 General
 Techstars London Services Limited | Tier 2 (A rating) Tier 2 General
-TechTarget Limited London Greater | Tier 2 (A rating) Tier 2 General
+TechTarget Limited | Tier 2 (A rating) Tier 2 General
 Tecnicas Reunidas UK Limited | Tier 2 (A rating) Tier 2 General
 Ted Baker | Tier 2 (A rating) Tier 2 General
 Teekay Shipping (UK) Limited | Tier 2 (A rating) Tier 2 General
@@ -9569,7 +9570,7 @@ Temple Pharmacy Ealing Ltd Ealing | Tier 2 (A rating) Tier 2 General
 Temple Pharmacy Limited | Tier 2 (A rating) Tier 2 General
 Templetons (UK) Ltd | Tier 2 (A rating) Tier 2 General
 Tempus Energy Technology Ltd | Tier 2 (A rating) Tier 2 General
-Ten Health and Fitness Limited | London, City of | Tier 2 (A rating) Tier 2 General
+Ten Health and Fitness Limited City of | Tier 2 (A rating) Tier 2 General
 Ten Lifestyle Management ( Ten Group) | Tier 2 (A rating) Tier 2 General
 Ten Nineteen Ltd | Tier 2 (A rating) Tier 2 General
 Tendertheory LTD | Tier 2 (A rating) Tier 2 General
@@ -9588,7 +9589,7 @@ Terrapinn Holdings Limited | Tier 2 (A rating) Tier 2 General
 Terrence Higgins Trust | Tier 2 (A rating) Tier 2 General
 Territory Studio Limted | Tier 2 (A rating) Tier 2 General
 Tertiary Education Services Ltd | Tier 2 (A rating) Tier 2 General
-TES Global Limited London Greater | Tier 2 (A rating) Tier 2 General
+TES Global Limited | Tier 2 (A rating) Tier 2 General
 Tess Management Limited | Tier 2 (A rating) Tier 2 General
 Tessa Laws Limited | Tier 2 (A rating) Tier 2 General
 Testhouse Limited London Stratford | Tier 2 (A rating) Tier 2 General
@@ -9658,7 +9659,7 @@ The Bar Pro Bono Unit | Tier 2 (A rating) Tier 2 General
 The Barn Agency Limited | Tier 2 (A rating) Tier 2 General
 The Barts Health National Health Service Trust | Tier 2 (A rating) Tier 2 General
 The Beefeater of St Katharine's Dock Ltd T/A The Medieval Banquet | Tier 2 (A rating) Tier 2 General
-The Behaviouralist Ltd. London Greater | Tier 2 (A rating) Tier 2 General
+The Behaviouralist Ltd. | Tier 2 (A rating) Tier 2 General
 The Belgravia Trichological Group Limited | Tier 2 (A rating) Tier 2 General
 The Berkeley Hotel Limited | Tier 2 (A rating) Tier 2 General
 The Best Health TCM Ltd | Tier 2 (A rating) Tier 2 General
@@ -9758,7 +9759,7 @@ THE EMBASSY OF THE SULTANATE OF OMAN | Tier 2 (A rating) Tier 2 General
 The Empire Design Company Ltd | Tier 2 (A rating) Tier 2 General
 The English Province of The Institute of Franciscan Missionaries of Mary | Tier 2 (A rating) Tier 2 General
 The English Studio Ltd | Tier 2 (A rating) Tier 2 General
-The Entryphone Co Ltd London Greater | Tier 2 (A rating) Tier 2 General
+The Entryphone Co Ltd | Tier 2 (A rating) Tier 2 General
 The Equal Rights Trust | Tier 2 (A rating) Tier 2 General
 The Exceptional Education Trust | Tier 2 (A rating) Tier 2 General
 The Exchange Lab | Tier 2 (A rating) Tier 2 General
@@ -9827,7 +9828,7 @@ The Imaginati Studios | Tier 2 (A rating) Tier 2 General
 The Imagination Group Limited | Tier 2 (A rating) Tier 2 General
 The Incorporated Council of Law Reporting for England and Wales | Tier 2 (A rating) Tier 2 General
 The Independent Calculation Agent Ltd | Tier 2 (A rating) Tier 2 General
-The Information Lab | London,City of | Tier 2 (A rating) Tier 2 General
+The Information LabCity of | Tier 2 (A rating) Tier 2 General
 The Innovation Enterprise Ltd | Tier 2 (A rating) Tier 2 General
 The Innovation Unit Limited | Tier 2 (A rating) Tier 2 General
 The Innovative Retail & Food Company LTD City of | Tier 2 (A rating) Tier 2 General
@@ -9852,7 +9853,7 @@ The LancasterLandmark Hotel Company Ltd t/a Lancaster | Tier 2 (A rating) Tier 2
 The Learning Clinic Ltd | Tier 2 (A rating) Tier 2 General
 The Leisure Pass Group Limited | Tier 2 (A rating) Tier 2 General
 The Liberal Jewish Synagogue | Tier 2 (A rating) Tier 2 General
-The Licensing Company Limited London Greater | Tier 2 (A rating) Tier 2 General
+The Licensing Company Limited | Tier 2 (A rating) Tier 2 General
 The Light Bureau Limited Battersea | Tier 2 (A rating) Tier 2 General
 The Lingoes Ltd | Tier 2 (A rating) Tier 2 General
 The Lister Hospital | Tier 2 (A rating) Tier 2 General
@@ -9872,7 +9873,7 @@ The London School of Economics and Political Science | Tier 2 (A Premium) Tier 2
 The London School of English and Foreign Languages Limited | Tier 2 (A rating) Tier 2 General
 The London Women's Clinic | Tier 2 (A rating) Tier 2 General
 The Lord's Taverners Limited | Tier 2 (A rating) Tier 2 General
-The Macklin Group Coleraine | Londonderry | Tier 2 (A rating) Tier 2 General
+The Macklin Group Coleraine | Tier 2 (A rating) Tier 2 General
 THE MAITLAND CONSULTANCY LIMITED | Tier 2 (A rating) Tier 2 General
 The Mall Tavern | Tier 2 (A rating) Tier 2 General
 The Mandeville Hotel | Tier 2 (A rating) Tier 2 General
@@ -9950,7 +9951,7 @@ The Royal Brompton and Harefield NHS Trust | Tier 2 (A rating) Tier 2 General
 The Royal Central School of Speech and Drama | Tier 2 (A rating) Tier 2 General
 The Royal College of Psychiatrists | Tier 2 (A rating) Tier 2 General
 The Royal Drawing School | Tier 2 (A rating) Tier 2 General
-The Royal Foundation of the Duke and Duchess of Cambridge and Prince HarryLondon | Tier 2 (A rating) Tier 2 General
+The Royal Foundation of the Duke and Duchess of Cambridge and Prince Harry| Tier 2 (A rating) Tier 2 General
 The Royal Hospital of Neuro-Disability | Tier 2 (A rating) Tier 2 General
 The Royal Institute of International Affairs | Tier 2 (A rating) Tier 2 General
 The Royal Institution of Chartered Surveyors | Tier 2 (A rating) Tier 2 General
@@ -10113,7 +10114,7 @@ TMNS UK Digitisation Solutions Ltd | Tier 2 (A rating) Tier 2 General
 Toaster Limited | Tier 2 (A rating) Tier 2 General
 Toby Newman Photography LTD | Tier 2 (A rating) Tier 2 General
 TodayTix, Ltd | Tier 2 (A rating) Tier 2 General
-Todd Longstaffe-Gowan Limited | London, | Tier 2 (A rating) Tier 2 General
+Todd Longstaffe-Gowan Limited | Tier 2 (A rating) Tier 2 General
 Toh Shimazaki Architecture Limited | Tier 2 (A rating) Tier 2 General
 Toho Titanium Europe Co., Ltd. | Tier 2 (A rating) Tier 2 General
 TokenCard Limited | Tier 2 (A rating) Tier 2 General
@@ -10151,7 +10152,7 @@ Totaljobs Group Limited | Tier 2 (A rating) Tier 2 General
 Totally Communications | Tier 2 (A rating) Tier 2 General
 Totalstay Holdings | Tier 2 (A rating) Tier 2 General
 Totland Toys and nursery Goods Ltd | Tier 2 (A rating) Tier 2 General
-Tottenham Hotspur | Tier 2 (A rating) Tier 2 General | Tier 2 (A rating) Sport
+Tottenham Hotspur | Tier 2 (A rating) Tier 2 General
 Tottenham U.T.C. | Tier 2 (A rating) Tier 2 General
 TOUCAN VENTURES LTD | Tier 2 (A rating) Tier 2 General
 toucanBox | Tier 2 (A rating) Tier 2 General
@@ -10173,7 +10174,7 @@ TowerBrook Capital Partners (U.K.) LLP | Tier 2 (A rating) Tier 2 General
 Towergate Insurance | Tier 2 (A rating) Tier 2 General
 Towerhouse LLP | Tier 2 (A rating) Tier 2 General
 Towerstone Partners Limited | Tier 2 (A rating) Tier 2 General
-Townshend Landscape Architects Limited London Greater | Tier 2 (A rating) Tier 2 General
+Townshend Landscape Architects Limited | Tier 2 (A rating) Tier 2 General
 Toyota Tsusho Automobile London Holdings Ltd | Tier 2 (A rating) Tier 2 General
 Toyota Tsusho UK Ltd | Tier 2 (A rating) Tier 2 General
 TPG EUROPE, LLP | Tier 2 (A rating) Tier 2 General
@@ -10230,7 +10231,7 @@ Travel Weekly Group Limited | Tier 2 (A rating) Tier 2 General
 Travelex Holdings Limited | Tier 2 (A rating) Tier 2 General
 Travelfusion Ltd London Select a State/Province | Tier 2 (A rating) Tier 2 General
 Travellanda Ltd. | Tier 2 (A rating) Tier 2 General
-Travelzoo (Europe) Limited London Greater | Tier 2 (A rating) Tier 2 General
+Travelzoo (Europe) Limited | Tier 2 (A rating) Tier 2 General
 Travers Smith LLP | Tier 2 (A rating) Tier 2 General
 Trax Retail Ltd | Tier 2 (A rating) Tier 2 General
 Trayport Limited | Tier 2 (A rating) Tier 2 General
@@ -10279,7 +10280,7 @@ Trium Investment Management LLP | Tier 2 (A rating) Tier 2 General
 Trivascular Switzerland GMBH | Tier 2 (A rating) Tier 2 General
 TRNC London REPRESENTATIVE OFFICE | Tier 2 (A rating) Tier 2 General
 Troup Bywaters & Anders | Tier 2 (A rating) Tier 2 General
-Trowers & Hamlins London Greater | Tier 2 (A rating) Tier 2 General
+Trowers & Hamlins | Tier 2 (A rating) Tier 2 General
 True Capital Limited | Tier 2 (A rating) Tier 2 General
 True North Human Capital Limited | Tier 2 (A rating) Tier 2 General
 TrueLayer Limited | Tier 2 (A rating) Tier 2 General
@@ -10302,7 +10303,7 @@ TTT Moneycorp Limited | Tier 2 (A rating) Tier 2 General
 TU-Automotive Limited | Tier 2 (A rating) Tier 2 General
 Tuckers Solicitors | Tier 2 (A rating) Tier 2 General
 Tudor Barn Pleasaunce Ltd T/a Tudor Barn Eltham | Tier 2 (A rating) Tier 2 General
-Tudor Capital Europe LLP | London, | Tier 2 (A rating) Tier 2 General
+Tudor Capital Europe LLP | Tier 2 (A rating) Tier 2 General
 Tudor, Pickering, Holt & Co. International, LLP | Tier 2 (A rating) Tier 2 General
 Tufton Oceanic Ltd | Tier 2 (A rating) Tier 2 General
 Tug Limited Shoreditch | Tier 2 (A rating) Tier 2 General
@@ -10452,7 +10453,7 @@ University of North Carolina | Tier 2 (A rating) Tier 2 General
 University of Notre Dame | Tier 2 (A rating) Tier 2 General
 University of the Arts London Students' Union | Tier 2 (A rating) Tier 2 General
 University of the Arts | Tier 2 (A rating) Tier 2 General
-University of Ulster Coleraine | Londonderry | Tier 2 (A rating) Tier 2 General
+University of Ulster Coleraine | Tier 2 (A rating) Tier 2 General
 University of Westminster Students' Union | Tier 2 (A rating) Tier 2 General
 University of Westminster | Tier 2 (A rating) Tier 2 General
 Unlockd Media Operations Ltd | Tier 2 (A rating) Tier 2 General
@@ -10642,7 +10643,7 @@ Visions UK Consulting Limited | Tier 2 (A rating) Tier 2 General
 Vista Entertainment Solutions (UK) Limited | Tier 2 (A rating) Tier 2 General
 VistaJet International Ltd | Tier 2 (A rating) Tier 2 General
 Vistex (UK) Ltd | Tier 2 (A rating) Tier 2 General
-Visual Media Services Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Visual Media Services Ltd | Tier 2 (A rating) Tier 2 General
 Vita Mojo International Ltd | Tier 2 (A rating) Tier 2 General
 Vitabiotcs Ltd | Tier 2 (A rating) Tier 2 General
 Vitality Corporate Services Limited | Tier 2 (A rating) Tier 2 General
@@ -10715,7 +10716,7 @@ Walkers Pharmacy Palmers Green | Tier 2 (A rating) Tier 2 General
 Wall Street Systems Services Corp | Tier 2 (A rating) Tier 2 General
 Wallace Collection | Tier 2 (A rating) Tier 2 General
 Wallace HCL Ltd | Tier 2 (A rating) Tier 2 General
-Wallstreetdocs Ltd London Greater | Tier 2 (A rating) Tier 2 General
+Wallstreetdocs Ltd | Tier 2 (A rating) Tier 2 General
 Walpole Partnership Ltd | Tier 2 (A rating) Tier 2 General
 Walsh Associates Limited | Tier 2 (A rating) Tier 2 General
 Walters and Cohen Limited | Tier 2 (A rating) Tier 2 General
@@ -10782,7 +10783,7 @@ WebDMUK Ltd | Tier 2 (A rating) Tier 2 General
 Weber & Associates Limited | Tier 2 (A rating) Tier 2 General
 Webgains Ltd | Tier 2 (A rating) Tier 2 General
 Webigence Ltd | Tier 2 (A rating) Tier 2 General
-WeConvene Extel Limited London Greater | Tier 2 (A rating) Tier 2 General
+WeConvene Extel Limited | Tier 2 (A rating) Tier 2 General
 Weil, Gotshal & Manges (London) LLP | Tier 2 (A rating) Tier 2 General
 Weisscomm Partners Ltd | Tier 2 (A rating) Tier 2 General
 Wei-UK Consulting Ltd | Tier 2 (A rating) Tier 2 General
@@ -10799,7 +10800,7 @@ Wendy Wu Tours Ltd | Tier 2 (A rating) Tier 2 General
 West Digital Ltd | Tier 2 (A rating) Tier 2 General
 West Gate Maintenance Limited | Tier 2 (A rating) Tier 2 General
 West Green Dental Practice | Tier 2 (A rating) Tier 2 General
-WEST HAM UNITED FOOTBALL CLUB | Tier 2 (A rating) Sport | Tier 2 (A rating) Tier 2 General
+WEST HAM UNITED FOOTBALL CLUB | Tier 2 (A rating) Tier 2 General
 West London Free School | Tier 2 (A rating) Tier 2 General
 West London Mental Health Trust Southall Middlesex | Tier 2 (A rating) Tier 2 General
 West London Solicitors Limited Southall Middlesex | Tier 2 (A rating) Tier 2 General
@@ -10808,14 +10809,14 @@ Westbourne Terrace Management Services Limited | Tier 2 (A rating) Tier 2 Genera
 Westbridge Construction Ltd Wimbledon | Tier 2 (A rating) Tier 2 General
 Westbrook Europe (UK) LLP | Tier 2 (A rating) Tier 2 General
 WESTEND CLOTHING LTD | Tier 2 (A rating) Tier 2 General
-Western Asset Management Company Limited London Greater | Tier 2 (A rating) Tier 2 General
-Western Health & Social Care Trust | Londonderry | Londonderry | Tier 2 (A rating) Tier 2 General
+Western Asset Management Company Limited | Tier 2 (A rating) Tier 2 General
+Western Health & Social Care Trust | Tier 2 (A rating) Tier 2 General
 Western Union UK Limited | Tier 2 (A rating) Tier 2 General
 Westfield Europe Limited | Tier 2 (A rating) Tier 2 General
 Westgate Broadcasting Services Limited Ealing | Tier 2 (A rating) Tier 2 General
 Westleton Drake Ltd | Tier 2 (A rating) Tier 2 General
 WESTMIDIAN LIMITED TRADING AS J EDMUNDS CHEMIST HACKNEY | Tier 2 (A rating) Tier 2 General
-Westminster Academy London Greater | Tier 2 (A rating) Tier 2 General
+Westminster Academy | Tier 2 (A rating) Tier 2 General
 Westminster Accountancy Limited | Tier 2 (A rating) Tier 2 General
 Westminster Cathedral Choir School | Tier 2 (A rating) Tier 2 General
 Westminster City Council | Tier 2 (A rating) Tier 2 General
@@ -10847,7 +10848,7 @@ White Cube Limited | Tier 2 (A rating) Tier 2 General
 White Label UK | Tier 2 (A rating) Tier 2 General
 White Light Limited | Tier 2 (A rating) Tier 2 General
 White Stuff | Tier 2 (A rating) Tier 2 General
-Whitebox Advisors | London, LLP | Tier 2 (A rating) Tier 2 General
+Whitebox Advisors LLP | Tier 2 (A rating) Tier 2 General
 Whitechapel Dental Practice | Tier 2 (A rating) Tier 2 General
 Whitecliff Management Corporation Limited | Tier 2 (A rating) Tier 2 General
 Whitefield School | Tier 2 (A rating) Tier 2 General
@@ -10885,7 +10886,7 @@ Willington School Foundation Ltd Wimbledon | Tier 2 (A rating) Tier 2 General
 Willis Limited, trading as Willis Towers Watson plc | Tier 2 (A rating) Tier 2 General
 Willkie Farr & Gallagher (UK) LLP | Tier 2 (A rating) Tier 2 General
 WILLOWBREEZE LTD | Tier 2 (A rating) Tier 2 General
-Wilmer Cutler Pickering Hale and Dorr LLP (trading as WilmerHale) London Greater | Tier 2 (A rating) Tier 2 General
+Wilmer Cutler Pickering Hale and Dorr LLP (trading as WilmerHale) | Tier 2 (A rating) Tier 2 General
 Wilmington Healthcare Limited | Tier 2 (A rating) Tier 2 General
 Wilmington Trust SP Services (London) Limited | Tier 2 (A rating) Tier 2 General
 WilmotML Limited | Tier 2 (A rating) Tier 2 General
@@ -11030,7 +11031,7 @@ Xceedance Limited | Tier 2 (A rating) Tier 2 General
 Xchanging Limited | Tier 2 (A rating) Tier 2 General
 XCO2 Energy | Tier 2 (A rating) Tier 2 General
 Xenith Document Systems Ltd | Tier 2 (A rating) Tier 2 General
-Xihelm Limited London Greater | Tier 2 (A rating) Tier 2 General
+Xihelm Limited | Tier 2 (A rating) Tier 2 General
 XIO (UK) LLP | Tier 2 (A rating) Tier 2 General
 XL CATLIN SERVICES SE T/A 'XL CATLIN' | Tier 2 (A rating) Tier 2 General
 XML Ltd | Tier 2 (A rating) Tier 2 General
@@ -11088,7 +11089,7 @@ Your Bourse Limited | Tier 2 (A rating) Tier 2 General
 Your Golf Travel Limited | Tier 2 (A rating) Tier 2 General
 Your Grind Ltd | Tier 2 (A rating) Tier 2 General
 Your World Recruitment Ltd | Tier 2 (A rating) Tier 2 General
-YouTeam Ltd. London Greater | Tier 2 (A rating) Tier 2 General
+YouTeam Ltd. | Tier 2 (A rating) Tier 2 General
 YOUTH MEDIA (UK) LTD London N/A | Tier 2 (A rating) Tier 2 General
 YouView TV Ltd | Tier 2 (A rating) Tier 2 General
 Yoyo Wallet Ltd | Tier 2 (A rating) Tier 2 General
@@ -11106,7 +11107,7 @@ Zafash Limited | Tier 2 (A rating) Tier 2 General
 Zafin Labs UK Limited | Tier 2 (A rating) Tier 2 General
 Zagora NWL LTD. T/A Mail Boxes Etc NWL | Tier 2 (A rating) Tier 2 General
 Zaha Hadid Limited | Tier 2 (A rating) Tier 2 General
-Zaidi & Co | London, | Tier 2 (A rating) Tier 2 General
+Zaidi & Co | Tier 2 (A rating) Tier 2 General
 ZAIWALLA & CO. LLP | Tier 2 (A rating) Tier 2 General
 Zaizi Limited | Tier 2 (A rating) Tier 2 General
 Zamin Advisors Limited | Tier 2 (A rating) Tier 2 General
