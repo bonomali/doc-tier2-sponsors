@@ -1,5 +1,5 @@
-Company name | City | Type | Premium
------------- | -----|------|--------
+Company name | Type       | Premium
+-------------|------------|--------
 ?What If! Ltd | Tier 2 (A rating) Tier 2 General| 
 @ Home Accommodation Services Ltd | Tier 2 (A rating) Tier 2 General| 
 0-two Maintenance | Tier 2 (A rating) Tier 2 General
