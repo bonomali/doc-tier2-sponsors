@@ -2339,7 +2339,7 @@ Content Media Corporation Limited | Tier 2 (A rating) Tier 2 General
 Contentive Limited | Tier 2 (A rating) Tier 2 General
 Contently Europe Ltd | Tier 2 (A rating) Tier 2 General
 Context Information Security | Tier 2 (A rating) Tier 2 General
-Continental Cuisine Coleraine Ltd Coleraine Co.Londonderry | Tier 2 (A rating) Tier 2 General
+Continental Cuisine Coleraine Ltd Coleraine Co. | Tier 2 (A rating) Tier 2 General
 Contracts Consultancy Limited | Tier 2 (A rating) Tier 2 General
 CONTRACTS IT LIMITED | Tier 2 (A rating) Tier 2 General
 Contrapositive Ltd T/A Contra Agency | Tier 2 (A rating) Tier 2 General
@@ -10023,7 +10023,7 @@ The Works Marketing Communications Ltd | Tier 2 (A rating) Tier 2 General
 The Works Search Ltd | Tier 2 (A rating) Tier 2 General
 The Workshop Technologies Ltd | Tier 2 (A rating) Tier 2 General
 The World Federation of Exchanges Limited | Tier 2 (A rating) Tier 2 General
-The Worlds Larder Limited Wanstead | Londond | Tier 2 (A rating) Tier 2 General
+The Worlds Larder Limited Wanstead | Tier 2 (A rating) Tier 2 General
 The Yard Creative Limited | Tier 2 (A rating) Tier 2 General
 The Yomiuri Shimbun | Tier 2 (A rating) Tier 2 General
 The Young Foundation | Tier 2 (A rating) Tier 2 General
@@ -10034,7 +10034,7 @@ Theodo Ltd | Tier 2 (A rating) Tier 2 General
 ThePlatform UK Limited | Tier 2 (A rating) Tier 2 General
 THEREFORE LIMITED | Tier 2 (A rating) Tier 2 General
 Thetrianglelab Limited T/A Dojo App | Tier 2 (A rating) Tier 2 General
-Thingful Limited | Londond | Tier 2 (A rating) Tier 2 General
+Thingful Limited | Tier 2 (A rating) Tier 2 General
 Think BlackBook Limited | Tier 2 (A rating) Tier 2 General
 Think Inside Ltd | Tier 2 (A rating) Tier 2 General
 Think Jam Limited | Tier 2 (A rating) Tier 2 General
