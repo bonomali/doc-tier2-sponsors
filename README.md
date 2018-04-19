@@ -3883,7 +3883,7 @@ GEM DIAMONDS LIMITED | Tier 2 (A rating) Tier 2 General
 GemCorp Capital LLP & GemCorp Capital (Services) Limited | Tier 2 (A rating) Tier 2 General
 Gemfields Plc | Tier 2 (A rating) Tier 2 General
 Gemini Office Services UK Limited | Tier 2 (A rating) Tier 2 General
-Gemological Institute of America (GIA England t/a GIA | London) | Tier 2 (A rating) Tier 2 General
+Gemological Institute of America (GIA England t/a GIA London) | Tier 2 (A rating) Tier 2 General
 Gems UK Ltd | Tier 2 (A rating) Tier 2 General
 Gemserv Limited | Tier 2 (A rating) Tier 2 General
 Gemsstock Limited | Tier 2 (A rating) Tier 2 General
@@ -3964,7 +3964,7 @@ GIPA (UK) Limited | Tier 2 (A rating) Tier 2 General
 Giraffe Concepts Ltd | Tier 2 (A rating) Tier 2 General
 Girl Effect | Tier 2 (A rating) Tier 2 General
 Girlguiding UK | Tier 2 (A rating) Tier 2 General
-Girls Not Brides| The Global Partnership to End Child Marriage | Tier 2 (A rating) Tier 2 General
+Girls Not Brides - The Global Partnership to End Child Marriage | Tier 2 (A rating) Tier 2 General
 Giveclarity.org Ltd | Tier 2 (A rating) Tier 2 General
 Given London Ltd | Tier 2 (A rating) Tier 2 General
 Givex UK Corporation Limited | Tier 2 (A rating) Tier 2 General
@@ -5647,7 +5647,7 @@ LeanWorks Limited | Tier 2 (A rating) Tier 2 General
 Leap Legal Software Limited Twickenham Greater | Tier 2 (A rating) Tier 2 General
 Leapman Weiss - Chartered Accountants | Tier 2 (A rating) Tier 2 General
 Learning in Harmony Trust Manor Park | Tier 2 (A rating) Tier 2 General
-Learning Resource Network Ltd | London- | Tier 2 (A rating) Tier 2 General
+Learning Resource Network Ltd | Tier 2 (A rating) Tier 2 General
 LearningMate Solutions (UK) | Tier 2 (A rating) Tier 2 General
 Leathwaite International LLP | Tier 2 (A rating) Tier 2 General
 Lebara Limited | Tier 2 (A rating) Tier 2 General
@@ -5758,7 +5758,7 @@ Links (London) Ltd Guildford Surrey | Tier 2 (A rating) Tier 2 General
 LINRA CHEMISTS LTD | Tier 2 (A rating) Tier 2 General
 Lintel Capital UK Advisors LLP | Tier 2 (A rating) Tier 2 General
 Lion Capital LLP | Tier 2 (A rating) Tier 2 General
-Lion Re|Sources UK Limited | Tier 2 (A rating) Tier 2 General
+Lion Re Sources UK Limited | Tier 2 (A rating) Tier 2 General
 Lionheart Domiciliary Care Services Limited | Tier 2 (A rating) Tier 2 General
 Lions Gate International (UK) Limited | Tier 2 (A rating) Tier 2 General
 Lion's Head Global Partners LLP | Tier 2 (A rating) Tier 2 General
@@ -6692,7 +6692,7 @@ MPA Architects Ltd | Tier 2 (A rating) Tier 2 General
 MPAC Consultancy LLP | Tier 2 (A rating) Tier 2 General
 Mphasis UK Limited | Tier 2 (A rating) Tier 2 General
 MPIE Limited | Tier 2 (A rating) Tier 2 General
-MQ| Transforming Mental Health | Tier 2 (A rating) Tier 2 General
+MQ Transforming Mental Health | Tier 2 (A rating) Tier 2 General
 Mr & Mrs Lovegrove T/A Lovegrove Studios | Tier 2 (A rating) Tier 2 General
 Mr Chow Restaurant Limited | Tier 2 (A rating) Tier 2 General
 Mr President Partnership Limited | Tier 2 (A rating) Tier 2 General
@@ -7041,7 +7041,7 @@ Novalpina Capital LLP | Tier 2 (A rating) Tier 2 General
 Novastone Media Ltd | Tier 2 (A rating) Tier 2 General
 Novoda LTD | Tier 2 (A rating) Tier 2 General
 Novus Partners UK Ltd. | Tier 2 (A rating) Tier 2 General
-NOW| Pensions Limited | Tier 2 (A rating) Tier 2 General
+NOW Pensions Limited | Tier 2 (A rating) Tier 2 General
 Now-Casting Economics Ltd | Tier 2 (A rating) Tier 2 General
 NPComplete Ltd t/a Satalia | Tier 2 (A rating) Tier 2 General
 NPSG UK Ltd | Tier 2 (A rating) Tier 2 General
@@ -7565,7 +7565,7 @@ Physio Ed Medical Ltd | Tier 2 (A rating) Tier 2 General
 Physio Lifestyle Limited T/A West 1 Physiotherapy | Tier 2 (A rating) Tier 2 General
 Physio4Life LTD | Tier 2 (A rating) Tier 2 General
 Physiotherapy Solutions | Tier 2 (A rating) Tier 2 General
-Physiotherapy Specialists Ltd (TA Physiotherapy | London) | Tier 2 (A rating) Tier 2 General
+Physiotherapy Specialists Ltd (TA Physiotherapy London) | Tier 2 (A rating) Tier 2 General
 Pi Labs Limited | Tier 2 (A rating) Tier 2 General
 Piccadilly Group Ltd | Tier 2 (A rating) Tier 2 General
 PICM SERVICES LTD | Tier 2 (A rating) Tier 2 General
@@ -8790,7 +8790,7 @@ Simpleshow UK Ltd | Tier 2 (A rating) Tier 2 General
 Simplicity cafe & restaurant Rotherhithe | Tier 2 (A rating) Tier 2 General
 Simplicity Marketing Limited | Tier 2 (A rating) Tier 2 General
 Simply Energy Solutions Ltd | Tier 2 (A rating) Tier 2 General
-Simply Letting | London.Com Wandsworth | Tier 2 (A rating) Tier 2 General
+Simply Letting | Tier 2 (A rating) Tier 2 General
 Simply Signs Ltd | Tier 2 (A rating) Tier 2 General
 Simpson Spence Young | Tier 2 (A rating) Tier 2 General
 SIMPSON THACHER & BARTLETT LLP | Tier 2 (A rating) Tier 2 General
@@ -9322,7 +9322,7 @@ Sue Whimster Curtains Limited | Tier 2 (A rating) Tier 2 General
 Sulake UK Limited (t/a Epic TV) | Tier 2 (A rating) Tier 2 General
 Sulivan Sweetland Ltd | Tier 2 (A rating) Tier 2 General
 Sullivan & Cromwell LLP | Tier 2 (A rating) Tier 2 General
-SULTAN AND COMPANY LTD T/A| SULTAN AND COMPANY | Tier 2 (A rating) Tier 2 General
+SULTAN AND COMPANY LTD T/A  SULTAN AND COMPANY | Tier 2 (A rating) Tier 2 General
 Sumitomo Chemical (U.K.) PLC | Tier 2 (A rating) Tier 2 General
 Sumitomo Corporation Europe Ltd. | Tier 2 (A rating) Tier 2 General
 Sumitomo Electric Finance UK Limited | Tier 2 (A rating) Tier 2 General
@@ -10080,7 +10080,8 @@ Tiburon Partners LLP | Tier 2 (A rating) Tier 2 General
 Ticketmaster UK Ltd | Tier 2 (A rating) Tier 2 General
 Tictrac Limited | Tier 2 (A rating) Tier 2 General
 Tide Platform Ltd | Tier 2 (A rating) Tier 2 General
-Tier2 | Tidewater Support Services Limited Aberdeen Scotland | Tier 2 (A Premium) Tier 2 General | Tier 1 Generations Ltd | Tier 2 (A rating) Tier 2 General | Tierney IT Solutions Ltd Borehamwood | Tier 2 (A rating) Tier 2 General | Yes
+Tidewater Support Services Limited Aberdeen Scotland | Tier 2 (A Premium) Tier 2 General | Yes
+Tierney IT Solutions Ltd Borehamwood | Tier 2 (A rating) Tier 2 General
 Tiffany & Co . Limited | Tier 2 (A rating) Tier 2 General
 Tiger Aspect Holdings Ltd | Tier 2 (A rating) Tier 2 General
 Tiger Recruitment Limited | Tier 2 (A rating) Tier 2 General
