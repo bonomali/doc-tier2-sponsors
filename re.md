@@ -91,7 +91,7 @@ Days before start show | Query Date | Left | Sold tickets for end of the day
 
 in Russian language the phrase means, that the show date is not includes in the period `25 days before a show starts`.
 
-Days before start show | Query Date | Sold tickets for end of day
+Days before start show | Query Date | Left | Sold tickets for end of day
 ---|---|---|---
 25 | 2017-07-21 | 200 | 10
 24 | 2017-07-22 | 190 | 20
@@ -118,6 +118,6 @@ Days before start show | Query Date | Sold tickets for end of day
 3 | 2017-08-12 | 0 | 200 / sold
 2 | 2017-08-13 | 0 | 200 / sold
 1 | 2017-08-14 | 0 | 200 / sold
-0 (show date) | 2017-08-15 | 0 |
+0 (show date) | 2017-08-15 | 0 | 
 
 
